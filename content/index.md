@@ -47,7 +47,8 @@ Good luck and enjoy felping! Created by Okaczko and assisted by Windy (Toonlinky
 - "You are always allowed to backtrack if you want to. If you get lost, you still have the view map button and your little friend."
 - "Many things besides spears can be useful in combat. Generally though, you can kill any creature with enough understanding about how it works and a spear. Experiment and observe!" - **Bottle'o Jam**
 - "You can also experiment with the sandbox arena to get used to the controls and try out techniques :)" - **Lammy**
-- 
+- talking about the Remix toggles is considered quite a big hint, and also there are spoilers in the settings
+  
 ## specific situations
 ### I ate lttm neurons and now I feel bad
 - "This is up to you whether you wanna live with it or not. If you hibernated then the fate is sealed" - Examinoso (is that name supposed to be Italian or am I on acid)
