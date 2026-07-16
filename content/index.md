@@ -1,6 +1,6 @@
 ### Abstract
 - this is my documentation on various sources, principles and tips I've gathered while trying to learn how to felp (first playthrough helping) properly. The doc is made into five parts: useful resources, basic principles + useful phrases, specific situations and technicalities, and at last all the changes MSC brings for Vanilla that I've noticed through my threads. This document will grow.
-Good luck and enjoy felping!
+Good luck and enjoy felping! Created by Okaczko and assisted by Windy (Toonlinky)
 
 ## useful resources
 [Rain World Collection Index \| Pearls, Broadcasts, Downpour & The Watcher DLC](https://rw-collection-index.github.io/) - site for fetching dialogue/transcriptions without getting lost in the maze that is the wiki, speaking of...
