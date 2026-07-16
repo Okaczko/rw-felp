@@ -6,8 +6,8 @@ Good luck and enjoy felping! Created by Okaczko and assisted by Windy (Toonlinky
 [Rain World Collection Index \| Pearls, Broadcasts, Downpour & The Watcher DLC](https://rw-collection-index.github.io/) - site for fetching dialogue/transcriptions without getting lost in the maze that is the wiki, speaking of...
 [Official Rain World Wiki](https://rainworld.miraheze.org/wiki/Rain_World_Wiki) - the wiki. I only use it when I need specific numbers (for example how long does it take for a karma flower to respawn)
 [Rain World Interactive Map](https://henpemaz.github.io/Rain-World-Interactive-Map/index.html) - Vanilla and MSC
-[RAIN WORLD HINTS STUFF - Dokument Google](https://docs.google.com/document/d/10DXL8zY8MtVefjcFskXF9xjahaHn8RdWzg_wzCMpJBk/edit?tab=t.0) - List of hints to use. Not complete
-[Discord - fp__guide_coordination thread](https://discord.com/channels/291184728944410624/1494522157009735730) - thread used for discussion on the FP threads. When in doubt, ask there. Also if you don't have the First Playthrough Helper role it lets you get the attention of someone that can .repost or edit/delete the message in the case of a spoiler in the text and the OP being offline/uncooperative
+[RAIN WORLD HINTS STUFF - Document Google](https://docs.google.com/document/d/10DXL8zY8MtVefjcFskXF9xjahaHn8RdWzg_wzCMpJBk/edit?tab=t.0) - List of hints to use. Not complete
+[Discord - fp_guide_coordination thread](https://discord.com/channels/291184728944410624/1494522157009735730) - thread used for discussion on the FP threads. When in doubt, ask there. Also if you don't have the First Playthrough Helper role it lets you get the attention of someone that can .repost or edit/delete the message in the case of a spoiler in the text and the OP being offline/uncooperative
 
 
 ## basic principles
