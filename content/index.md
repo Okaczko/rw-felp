@@ -1,5 +1,5 @@
-### Abstract
-- this is my documentation on various sources, principles and tips I've gathered while trying to learn how to felp (first playthrough helping) properly. The doc is made into five parts: useful resources, basic principles + useful phrases, specific situations and technicalities, and at last all the changes MSC brings for Vanilla that I've noticed through my threads. This document will grow. *If you want to suggest/add something, hit me up on discord! I can give you the collaborator role on github.*
+### Abstract and spoiler warning
+- this is my documentation on various sources, principles and tips I've gathered while trying to learn how to felp (first playthrough helping) properly. The doc is made into five parts: useful resources, basic principles + useful phrases, specific situations and technicalities, and at last all the changes MSC brings for Vanilla that I've noticed through my threads. **There will be spoilers**. This document will grow. *If you want to suggest/add something, hit me up on discord! I can give you the collaborator role on github.*
 Good luck and enjoy felping! Created by Okaczko and assisted by Windy (Toonlinky)
 
 ## useful resources
