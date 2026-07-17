@@ -51,7 +51,7 @@ Good luck and enjoy felping! Created by Okaczko and assisted by Windy (Toonlinky
   
 ## specific situations
 ### I ate lttm neurons and now I feel bad
-- "This is up to you whether you wanna live with it or not. If you hibernated then the fate is sealed" - Examinoso (is that name supposed to be Italian or am I on acid)
+- "This is up to you whether you wanna live with it or not. If you hibernated then the fate is sealed" - Exaninoso (is that name supposed to be Italian or am I on acid)
 ### What is Inv and how do I get them
 - first ask what they do know of them, don't tell them anything more than that. There's no way they could find Inv by themselves (you can tell them this) and it's found by a riddle that was posted online.
 	- *original riddle:* 
