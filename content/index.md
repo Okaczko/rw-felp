@@ -84,7 +84,7 @@ Good luck and enjoy felping! Created by Okaczko and assisted by Windy (Toonlinky
 - pipeyard, precipice, gutter, outerexpanse and it's connection to outskirts are MSC
 - Monk has readable pearls
 - Remix automatically toggles on Extra Throwing Trajectories, which gives you the option to shoot spears up while backflipping, and to throw up and down while in 0g
-
+- any UI popup that exists in vanilla gets disabled if Remix is enabled and Extra Tutorials is disabled
 
 
 questions to ask felpers (my notes):
