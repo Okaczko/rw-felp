@@ -84,3 +84,9 @@ Good luck and enjoy felping! Created by Okaczko and assisted by Windy (Toonlinky
 - pipeyard, precipice, gutter, outerexpanse and it's connection to outskirts are MSC
 - Monk has readable pearls
 - Remix automatically toggles on Extra Throwing Trajectories, which gives you the option to shoot spears up while backflipping, and to throw up and down while in 0g
+
+
+
+questions to ask felpers (my notes):
+- what is the procedure when the player goes to extreme lengths to get somewhere that brings them nothing?
+- player asks an answer to a lore question of his, that could however ruin their experience
