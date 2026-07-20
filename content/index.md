@@ -81,6 +81,12 @@ Good luck and enjoy felping! Created by Okaczko and assisted by Windy (Toonlinky
 ### Player asks a non-rhetorical lore question (example: is LTTM gonna die??)
 - as felpers felp, players might start to focus their curiosity on the felpers as a source of lore instead of the game itself. Most oftentimes "this is a question the game can answer" works well
 
+### Player gets scales the Wall for the first time. Doesn't know where to go
+- this situation fucking sucks. Most prefer to ask if they want to have such hint or answer on how to get up, but this cuts off Underhang and the whole FP region, which I find important for the story. I just don't think it's intended to go this way but I get that the player is frustrated at scaling the Wall only for an echo.
+- **This is completely different if this is a second playthrough, hinting them on how to get up is completely within reason**
+- the problem arises when it's a first playthrough without MSC (MSC adds 2 grapple worms to the western side of Underhang, making it possible to get quickly to FP), because then they would have to go to Shaded, Leg, Underhang and FP. That can be an insane backtrack. I'm on the "you should explore the parts you haven't been to yet" but that can be frustrating to the player. Honestly the chances of this happening are so low since players are by then used to following the directions from the overseers. Aaaaaa I hope some felper will see this and correct me on this one.
+
+
 ## MSC changes for vanilla to watch out for
 - the den on top of LTTM_ai (wherer lttm is located) is made passthrough 
 - pipeyard, precipice, gutter, outerexpanse and it's connection to outskirts are MSC
