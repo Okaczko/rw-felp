@@ -78,6 +78,8 @@ Good luck and enjoy felping! Created by Okaczko and assisted by Windy (Toonlinky
   	- "You might benefit from trying to just get as far as you can, without restarting. Or if it's your route that's not working, try to reroute" - **Mccool**
   	- that the timer isnt as tight as they might think
 
+### Player asks a non-rhetorical lore question (example: is LTTM gonna die??)
+- as felpers felp, players might start to focus their curiosity on the felpers as a source of lore instead of the game itself. Most oftentimes "this is a question the game can answer" works well
 
 ## MSC changes for vanilla to watch out for
 - the den on top of LTTM_ai (wherer lttm is located) is made passthrough 
@@ -88,5 +90,4 @@ Good luck and enjoy felping! Created by Okaczko and assisted by Windy (Toonlinky
 
 
 questions to ask felpers (my notes):
-- what is the procedure when the player goes to extreme lengths to get somewhere that brings them nothing?
-- player asks an answer to a lore question of his, that could however ruin their experience
+- the player climbs up the wall for the first time and hasn't been to FP yet.
