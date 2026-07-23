@@ -40,6 +40,7 @@ Good luck and enjoy felping! Created by Okaczko and assisted by Windy (Toonlinky
 		- "general question for dialogue: is there missable character specific dialogue that you can only get after meeting five pebbles? I would hate to miss dialogue but I also don't wanna limit myself by going to 5p first every single time" 
 		- "Answer: ||Yes, there is dialogue you can only access after meeting Five Pebbles in the Monk campaign.||"
 	- notice the mention of Five Pebbles and Monk. Lammy (the one who answered here) talks only with the present knowledge. This is where I realized there are genuinely levels to this
+ - jokes are funny and all but first try to actually help the guy if they need it (I do the opposite so much man)
 ### great and vague enough phrases to use (that I stole muehehehe)
 - "What makes you say that?" is an excellent phrase, as it gives you the knowledge of the player and makes them elaborate more on their thoughts
 - "Experiment with everything because the resources _are_ around"
