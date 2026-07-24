@@ -1,9 +1,11 @@
+"wait what is this" - gxhaxr
+
 ### Abstract and spoiler warning
 - This is my documentation on various sources, principles and tips I've gathered while trying to learn how to felp (first playthrough helping) properly. The doc is made into five parts: useful resources, basic principles + useful phrases, specific situations and technicalities, and at last all the changes MSC brings for Vanilla that I've noticed through my threads. **There will be spoilers**. This document will grow. *If you want to suggest/add something, hit me up on discord! I can give you the collaborator role on github.*
 Good luck and enjoy felping! Created by Okaczko and assisted by Windy (Toonlinky)
 
 ## Useful resources
-[Rain World Collection Index \| Pearls, Broadcasts, Downpour & The Watcher DLC](https://rw-collection-index.github.io/) - Site for fetching dialogue/transcriptions without getting lost in the maze that is the wiki, speaking of...
+[Rain World Collection Index \| Pearls, Broadcasts, Downpour & The Watcher DLC](https://rw-collection-index.github.io/) - Site forfetching dialogue/transcriptions without getting lost in the maze that is the wiki, speaking of...
 [Official Rain World Wiki](https://rainworld.miraheze.org/wiki/Rain_World_Wiki) - The wiki. I only use it when I need specific numbers (for example how long does it take for a karma flower to respawn)
 [Rain World Interactive Map](https://henpemaz.github.io/Rain-World-Interactive-Map/index.html) - Vanilla and MSC
 [RAIN WORLD HINTS STUFF - Document Google](https://docs.google.com/document/d/10DXL8zY8MtVefjcFskXF9xjahaHn8RdWzg_wzCMpJBk/edit?tab=t.0) - List of hints to use. Not complete
