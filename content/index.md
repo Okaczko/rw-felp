@@ -77,7 +77,7 @@ Good luck and enjoy felping! Created by Okaczko and assisted by Windy (Toonlinky
 
 ### frustrations with Hunter
 - Tell them that if they don't enjoy him that they can try other campaigns. If it's the last one remeaning or before Saint, here's what you can say:
-  	- "You might benefit from trying to just get as far as you can, without restarting. Or if it's your route that's not working, try to reroute" - **Mccool**
+  	- "You might benefit from trying to just get as far as you can, without restarting. Or if it's your route that's not working, try to reroute" - **McCool**
   	- That the timer isnt as tight as they might think
 
 ### Player asks a non-rhetorical lore question (example: is LTTM gonna die??)
