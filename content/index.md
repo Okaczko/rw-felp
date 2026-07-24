@@ -10,6 +10,7 @@ Good luck and enjoy felping! Created by Okaczko and assisted by Windy (Toonlinky
 [Rain World Interactive Map](https://henpemaz.github.io/Rain-World-Interactive-Map/index.html) - Vanilla and MSC
 [RAIN WORLD HINTS STUFF - Document Google](https://docs.google.com/document/d/10DXL8zY8MtVefjcFskXF9xjahaHn8RdWzg_wzCMpJBk/edit?tab=t.0) - List of hints to use. Not complete
 [Discord - fp_guide_coordination thread](https://discord.com/channels/291184728944410624/1494522157009735730) - Thread used for discussion on the FP threads. When in doubt, ask there. Also if you don't have the First Playthrough Helper role it lets you get the attention of someone that can .repost or edit/delete the message in the case of a spoiler in the text and the OP being offline/uncooperative
+[Remix Mod Presets and explanation of all the toggles](https://rainworld.miraheze.org/wiki/Remix/Rain_World_Remix#Presets) - I reccomed reading this as Remix changes a lot of stuff and even only turning it on brings a lot of changes that the player and the felper should be aware of and their consequences
 
 
 ## Basic principles
@@ -53,7 +54,7 @@ Good luck and enjoy felping! Created by Okaczko and assisted by Windy (Toonlinky
 - "You can also experiment with the sandbox arena to get used to the controls and try out techniques :)" - **Lammy**
 - Talking about the Remix toggles is considered quite a big hint, and also there are spoilers in the settings. Recommend at caution (in the case of the player struggling or if they are not on their first playthrough)
   
-## specific situations
+## Specific situations
 ### I ate lttm neurons and now I feel bad
 - "This is up to you whether you wanna live with it or not. If you hibernated then the fate is sealed" - Exaninoso (is that name supposed to be Italian or am I on acid)
 ### What is Inv and how do I get them
@@ -74,10 +75,10 @@ Good luck and enjoy felping! Created by Okaczko and assisted by Windy (Toonlinky
 - As always tell em to experiment with everything they see, there's like 4 sources of light in this game.
 - You can always tell em that the can use the map for navigation
 
-### just finished my first playthrough! now what
+### Just finished my first playthrough! now what
 - Tell em they can try the other scugs and that they can continue playing survivor (don't hesitate telling them about the continue button!). There are many things yet to explore
 
-### frustrations with Hunter
+### Frustrations with Hunter
 - Tell them that if they don't enjoy him that they can try other campaigns. If it's the last one remeaning or before Saint, here's what you can say:
   	- "You might benefit from trying to just get as far as you can, without restarting. Or if it's your route that's not working, try to reroute" - **McCool**
   	- That the timer isnt as tight as they might think
@@ -97,3 +98,6 @@ Good luck and enjoy felping! Created by Okaczko and assisted by Windy (Toonlinky
 - Monk has readable pearls
 - Remix automatically toggles on Extra Throwing Trajectories, which gives you the option to shoot spears up while backflipping, and to throw up and down while in 0g
 - Any UI hint/text popup that exists in vanilla gets disabled if Remix is enabled and Extra Tutorials is disabled
+
+## To add
+- consequences of the Remix toggles in regards to the first playthrough as requested by user23848 (At least that's how I understand it?)
