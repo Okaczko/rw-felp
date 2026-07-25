@@ -44,7 +44,8 @@ Good luck and enjoy felping! Created by Okaczko and assisted by Windy (Toonlinky
 		- "Answer: ||Yes, there is dialogue you can only access after meeting Five Pebbles in the Monk campaign.||"
 	- Notice the mention of Five Pebbles and Monk. Lammy (the one who answered here) talks only with the present knowledge. This is where I realized there are genuinely levels to ts
  - Jokes are funny and all but first try to actually help the guy if they need it (I do the opposite so much man)
- - 
+- Talking about the Remix toggles is considered quite a big hint, and also there are spoilers in the settings. Recommend at caution (in the case of the player struggling or if they are not on their first playthrough)
+
 ### Great and vague enough phrases to use (that I stole muehehehe)
 - "What makes you say that?" is an excellent phrase, as it gives you the knowledge of the player and makes them elaborate more on their thoughts
 - "Experiment with everything because the resources _are_ around"
@@ -52,7 +53,7 @@ Good luck and enjoy felping! Created by Okaczko and assisted by Windy (Toonlinky
 - "You are always allowed to backtrack if you want to. If you get lost, you still have the view map button and your little friend."
 - "Many things besides spears can be useful in combat. Generally though, you can kill any creature with enough understanding about how it works and a spear. Experiment and observe!" - **Bottle'o Jam**
 - "You can also experiment with the sandbox arena to get used to the controls and try out techniques :)" - **Lammy**
-- Talking about the Remix toggles is considered quite a big hint, and also there are spoilers in the settings. Recommend at caution (in the case of the player struggling or if they are not on their first playthrough)
+- "Everybody enjoys and plays games differently. We do not recommend external resources like the Wiki and maps for first playthroughs, the game is heavily focused on exploration and survival and best enjoyed blind. Using external resources can come at a risk of spoilers, but it is up to each individual player to decide how they wish to enjoy the game. So if OP thinks they prefer using a map, that's okay too." - **Lammy**
   
 ## Specific situations
 ### I ate lttm neurons and now I feel bad
