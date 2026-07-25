@@ -94,6 +94,8 @@ Good luck and enjoy felping! Created by Okaczko and assisted by Windy (Toonlinky
 - **This is completely different if this is a second playthrough, hinting them on how to get up is completely within reason**
 - The problem arises when it's a first playthrough without MSC (MSC adds 2 grapple worms to the western side of Underhang, making it possible to get quickly to FP), because then they would have to go to Shaded, Leg, Underhang and FP. That can be an insane backtrack. I'm on the "you should explore the parts you haven't been to yet" but that can be frustrating to the player. Honestly the chances of this happening are so low since players are by then used to following the directions from the overseers. Aaaaaa I hope some felper will see this and correct me on this one.
 
+### Player forgets Spearmaster's pearl. Doesn't know what to do
+- Unless prompted, don't indicate anything. If the FPlayer asks what to do then you can say something like "Do you remember something important in this campaign?"/"did you notice anything about your encounter with five pebbles?". Just don't point them directly. Some felpers try to point to the Broadcast ending and some are fine with the FPlayer going to only ascend. Your call
 
 ## MSC changes for vanilla to watch out for
 - The den on top of LTTM_ai (wherer lttm is located) is made passthrough 
