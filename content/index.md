@@ -45,6 +45,8 @@ Good luck and enjoy felping! Created by Okaczko and assisted by Windy (Toonlinky
 	- Notice the mention of Five Pebbles and Monk. Lammy (the one who answered here) talks only with the present knowledge. This is where I realized there are genuinely levels to ts
  - Jokes are funny and all but first try to actually help the guy if they need it (I do the opposite so much man)
 - Talking about the Remix toggles is considered quite a big hint, and also there are spoilers in the settings. Recommend at caution (in the case of the player struggling or if they are not on their first playthrough)
+- "I think it's good to not be overly negative when FPlayers use external resources, it can easily backfire to people feeling shamed for how they play the game. Everybody is built different and has different levels of comfort regarding both spoilers as well as difficulty in a game. In the FP guidelines there's the rule of "Player enjoyment takes priority over all other guidelines", and I think that applies to both the hints we give but also how we should work with players using the Wiki or a map. We inform them what our opinion of best practice is and why, but if they still choose to use more help, then that's okay. A player playing the game and having fun despite spoilers or a map is still better than a player who quits the game because they think they don't find enjoyment out of it." - how does **Lammy** write so many peak stuff 
+
 
 ### Great and vague enough phrases to use (that I stole muehehehe)
 - "What makes you say that?" is an excellent phrase, as it gives you the knowledge of the player and makes them elaborate more on their thoughts
