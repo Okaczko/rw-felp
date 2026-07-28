@@ -1,7 +1,7 @@
 "wait what is this" - gxhaxr
 
 ### Abstract and spoiler warning
-- This is my documentation on various sources, principles and tips I've gathered while trying to learn how to felp (first playthrough helping) properly. The doc is made into five parts: useful resources, basic principles + useful phrases, specific situations and technicalities, and at last all the changes MSC brings for Vanilla that I've noticed through my threads. **There will be spoilers**. This document will grow. *If you want to suggest/add something, hit me up on discord! I can give you the collaborator role on github.*
+- This is my documentation on various sources, principles and tips I've gathered while trying to learn how to felp (first playthrough helping) properly. The doc is made into five parts: useful resources, basic principles + useful phrases, specific situations and technicalities, and at last all the changes MSC brings for Vanilla that I've noticed through my threads. **There will be spoilers**. This document will grow. *If you want to suggest/add something, hit me up on discord! I can give you the collaborator role on Github.*
 Good luck and enjoy felping! Created by Okaczko and assisted by Windy (Toonlinky)
 
 ## Useful resources
@@ -10,17 +10,17 @@ Good luck and enjoy felping! Created by Okaczko and assisted by Windy (Toonlinky
 [Rain World Interactive Map](https://henpemaz.github.io/Rain-World-Interactive-Map/index.html) - Vanilla and MSC
 [RAIN WORLD HINTS STUFF - Document Google](https://docs.google.com/document/d/10DXL8zY8MtVefjcFskXF9xjahaHn8RdWzg_wzCMpJBk/edit?tab=t.0) - List of hints to use. Not complete
 [Discord - fp_guide_coordination thread](https://discord.com/channels/291184728944410624/1494522157009735730) - Thread used for discussion on the FP threads. When in doubt, ask there. Also if you don't have the First Playthrough Helper role it lets you get the attention of someone that can .repost or edit/delete the message in the case of a spoiler in the text and the OP being offline/uncooperative
-[Remix Mod Presets and explanation of all the toggles](https://rainworld.miraheze.org/wiki/Remix/Rain_World_Remix#Presets) - I reccomed reading this as Remix changes a lot of stuff and even only turning it on brings a lot of changes that the player and the felper should be aware of and their consequences
+[Remix Mod Presets and explanation of all the toggles](https://rainworld.miraheze.org/wiki/Remix/Rain_World_Remix#Presets) - I recommend reading this as Remix changes a lot of stuff and even only turning it on brings a lot of changes that the player and the felper should be aware of and their consequences
 
 
 ## Basic principles
 - Check if everything that should be spoilered (as in hidden) is spoilered. SPOILERED TEXT IN TITLE DOESN'T WORK ON MOBILE (as of 16.07.2026)
-- Check if it's only the relevant dlc/base game
+- Check if it's only the relevant dlc/base game, if it's an unusual issue you can also ask about which mods does the player use.
 - Don't let their curiosity go to waste by telling them the outcome, let them find it
 - Ask questions that provoke thinking. Make THEM the theorist
 - Your goal is to motivate and support the player. The joy of the game is the amount of unexpected bullshit so let them experience it too :)
-- Do not be objective (aka dont say "Downpour is great!!!"), say *your* opinion and that it's *your* opinion on the matter
-- Don't be afraid to laugh and say something was funny to you (this is for clips and jokes made by OP, don't explicitly laugh at someones theories in THEIR thread, you can do that in the fp coordination thread :D. Don't be mean tho)
+- Do not be objective (aka don't say "Downpour is great!!!"), say *your* opinion and that it's *your* opinion on the matter
+- Don't be afraid to laugh and say something was funny to you (this is for clips and jokes made by OP, don't explicitly laugh at someone's theories in THEIR thread, you can do that in the fp coordination thread :D. Don't be mean tho)
 - Censor your hints and tips in the case that OP reconsiders. Spoilers are done by putting || at the start and the end ||Like this|| or by highlighting the text and clicking the eye. 
 	- Yes or No questions, or any answer that can be deduced by it's text length should have some extra spaces as a filler  ||Like this                ||
 - ALWAYS check if the question is rhetoric or not. Ask them what the player wants from you. A hint? A direct answer?
@@ -82,9 +82,9 @@ Good luck and enjoy felping! Created by Okaczko and assisted by Windy (Toonlinky
 - Tell em they can try the other scugs and that they can continue playing survivor (don't hesitate telling them about the continue button!). There are many things yet to explore
 
 ### Frustrations with Hunter
-- Tell them that if they don't enjoy him that they can try other campaigns. If it's the last one remeaning or before Saint, here's what you can say:
+- Tell them that if they don't enjoy him that they can try other campaigns. If it's the last one remaining or before Saint, here's what you can say:
   	- "You might benefit from trying to just get as far as you can, without restarting. Or if it's your route that's not working, try to reroute" - **McCool**
-  	- That the timer isnt as tight as they might think
+  	- That the timer isn't as tight as they might think
 
 ### Player asks a non-rhetorical lore question (example: is LTTM gonna die??)
 - As felpers felp, players might start to focus their curiosity on the felpers as a source of lore instead of the game itself. Most oftentimes "this is a question the game can answer" works well
@@ -99,7 +99,7 @@ Good luck and enjoy felping! Created by Okaczko and assisted by Windy (Toonlinky
 
 ## MSC changes for vanilla to watch out for
 - The den on top of LTTM_ai (wherer lttm is located) is made passthrough 
-- Pipeyard, precipice, gutter, outerexpanse and it's connection to outskirts are MSC
+- Pipeyard, Precipice, Gutter, Outer Expanse and it's connection to Outskirts are MSC
 - Monk has readable pearls
 - Remix automatically toggles on Extra Throwing Trajectories, which gives you the option to shoot spears up while backflipping, and to throw up and down while in 0g
 - Any UI hint/text popup that exists in vanilla gets disabled if Remix is enabled and Extra Tutorials is disabled
