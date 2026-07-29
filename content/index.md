@@ -15,6 +15,7 @@ Good luck and enjoy felping! Created by Okaczko and assisted by Windy (Toonlinky
 
 ## Basic principles
 - Check if everything that should be spoilered (as in hidden) is spoilered. SPOILERED TEXT IN TITLE DOESN'T WORK ON MOBILE (as of 16.07.2026)
+	- Everything in the initial post should be spoilered, it doesn't matter if FP is mentioned on line 50, everything's going to get grey.
 - Check if it's only the relevant dlc/base game, if it's an unusual issue you can also ask about which mods does the player use.
 - Don't let their curiosity go to waste by telling them the outcome, let them find it
 - Ask questions that provoke thinking. Make THEM the theorist
