@@ -96,8 +96,15 @@ Good luck and enjoy felping! Created by Okaczko and assisted by Windy (Toonlinky
 - The problem arises when it's a first playthrough without MSC (MSC adds 2 grapple worms to the western side of Underhang, making it possible to get quickly to FP), because then they would have to go to Shaded, Leg, Underhang and FP. That can be an insane backtrack. I'm on the "you should explore the parts you haven't been to yet" but that can be frustrating to the player. Honestly the chances of this happening are so low since players are by then used to following the directions from the overseers. Aaaaaa I hope some felper will see this and correct me on this one.
 
 ### Player forgets Spearmaster's pearl. Doesn't know what to do
-- Unless prompted, don't indicate anything. If the FPlayer asks what to do then you can say something like "Do you remember something important in this campaign?"/"did you notice anything about your encounter with five pebbles?". Just don't point them directly. Some felpers try to point to the Broadcast ending and some are fine with the FPlayer going to only ascend. Your call
+- Unless prompted, don't indicate anything. If the FPlayer asks what to do then you can say something like "Do you remember something important in this campaign?"/"did you notice anything about your encounter with five pebbles?". Just don't point them directly. Some felpers try to point to the Broadcast ending and some are fine with the FPlayer going to only ascend. Your call. There have been instances of just devtooling it in but uhhhhhhhhh...
 
+### Player is very much frustrated with the game
+Here are some things you can do:
+	1. Recommend them taking a break.
+	2. Help them a bit more (enjoyment > playing blindly, don't overdo it tho).
+	3. *If* considerable, tell them that dying is part of the game and that they can always find a different route.
+	4. Let them crash out for a bit too yk
+	
 ## MSC changes for vanilla to watch out for
 - The den on top of LTTM_ai (wherer lttm is located) is made passthrough 
 - Pipeyard, Precipice, Gutter, Outer Expanse and it's connection to Outskirts are MSC
