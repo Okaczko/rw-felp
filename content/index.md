@@ -47,6 +47,7 @@ Good luck and enjoy felping! Created by Okaczko and assisted by Windy (Toonlinky
  - Jokes are funny and all but first try to actually help the guy if they need it (I do the opposite so much man)
 - Talking about the Remix toggles is considered quite a big hint, and also there are spoilers in the settings. Recommend at caution (in the case of the player struggling or if they are not on their first playthrough)
 - "I think it's good to not be overly negative when FPlayers use external resources, it can easily backfire to people feeling shamed for how they play the game. Everybody is built different and has different levels of comfort regarding both spoilers as well as difficulty in a game. In the FP guidelines there's the rule of "Player enjoyment takes priority over all other guidelines", and I think that applies to both the hints we give but also how we should work with players using the Wiki or a map. We inform them what our opinion of best practice is and why, but if they still choose to use more help, then that's okay. A player playing the game and having fun despite spoilers or a map is still better than a player who quits the game because they think they don't find enjoyment out of it." - **Lammy**. Genuinely what a banger
+- Tips intended to get the player to stop thinking in terms of other video games are good. Such as "the game doesn't have a linear progression", "there are no permanent upgrades", "it's a sandbox survival/adventure game"
 
 
 ### Great and vague enough phrases to use (that I stole muehehehe)
