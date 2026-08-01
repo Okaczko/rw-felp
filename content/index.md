@@ -20,6 +20,7 @@ Good luck and enjoy felping! Created by Okaczko and assisted by Windy (Toonlinky
 	- Everything in the initial post should be spoilered, it doesn't matter if FP is mentioned on line 50, everything's going to get grey.
 - Check if it's only the relevant dlc/base game, if it's an unusual issue you can also ask about which mods does the player use.
 - Don't let their curiosity go to waste by telling them the outcome, let them find it
+- It's always worth the time to ask which regions has the FPlayer visited already and what did they do when the thread doesn't start from the very beginning.
 - Ask questions that provoke thinking. Make THEM the theorist
 - Your goal is to motivate and support the player. The joy of the game is the amount of unexpected bullshit so let them experience it too :)
 - Do not be objective (aka don't say "Downpour is great!!!"), say *your* opinion and that it's *your* opinion on the matter
