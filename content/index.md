@@ -15,7 +15,7 @@ Good luck and enjoy felping! Created by Okaczko and assisted by Windy (Toonlinky
 
 ## Basic principles
 - Be kind
-- When talking about another commentator's felping on the #fp-coordination channel, please ping the user that's discussed (we don't want to leave people in the dark). Same goes for when you remove a commentator's reply. You can also copy and save the message somewhere when you delete it so that it can be discussed in #fp-coordination without it posing a risk in the FP thread.
+- When talking about another commentator's felping on the fp-coordination channel, please ping the user that's discussed (we don't want to leave people in the dark). Same goes for when you remove a commentator's reply. You can also copy and save the message somewhere when you delete it so that it can be discussed in fp-coordination without it posing a risk in the FP thread.
 - Check if everything that should be spoilered (as in hidden) is spoilered. SPOILERED TEXT IN TITLE DOESN'T WORK ON MOBILE (as of 16.07.2026)
 	- Everything in the initial post should be spoilered, it doesn't matter if FP is mentioned on line 50, everything's going to get grey.
 - Check if it's only the relevant dlc/base game, if it's an unusual issue you can also ask about which mods does the player use.
