@@ -62,6 +62,7 @@ Good luck and enjoy felping! Created by Okaczko and assisted by Windy (Toonlinky
 - "Many things besides spears can be useful in combat. Generally though, you can kill any creature with enough understanding about how it works and a spear. Experiment and observe!" - **Bottle'o Jam**
 - "You can also experiment with the sandbox arena to get used to the controls and try out techniques :)" - **Lammy**
 - "Everybody enjoys and plays games differently. We do not recommend external resources like the Wiki and maps for first playthroughs, the game is heavily focused on exploration and survival and best enjoyed blind. Using external resources can come at a risk of spoilers, but it is up to each individual player to decide how they wish to enjoy the game. So if OP thinks they prefer using a map, that's okay too." - **Lammy**
+- Telling players that MSC scugs have a non-ascension is ending is OK after they finish their campaign (for example if they ascend with Spearmaster without delivering the pearl)
   
 ## Specific situations
 ### I ate lttm neurons and now I feel bad
