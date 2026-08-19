@@ -19,9 +19,12 @@ Good luck and enjoy felping! Created by Okaczko and assisted by Windy (Toonlinky
 - Check if everything that should be spoilered (as in hidden) is spoilered. SPOILERED TEXT IN TITLE DOESN'T WORK ON MOBILE (as of 16.07.2026)
 	- Everything in the initial post should be spoilered, it doesn't matter if FP is mentioned on line 50, everything's going to get grey.
 - Check if it's only the relevant dlc/base game, if it's an unusual issue you can also ask about which mods does the player use.
+   - Big content mods (regions, slugcats, even rotound world) are not allowed in basegame fp threads and go to the modded ones instead 
 - Don't let their curiosity go to waste by telling them the outcome, let them find it
 - It's always worth the time to ask which regions has the FPlayer visited already and what did they do when the thread doesn't start from the very beginning.
 - Ask questions that provoke thinking. Make THEM the theorist
+- As a wise person once said: It is far easier to give too little information, and then give more, than to give too much information, and then take it away
+   - Someone, probably
 - Your goal is to motivate and support the player. The joy of the game is the amount of unexpected bullshit so let them experience it too :)
 - Do not be objective (aka don't say "Downpour is great!!!"), say *your* opinion and that it's *your* opinion on the matter
 - Don't be afraid to laugh and say something was funny to you (this is for clips and jokes made by OP, don't explicitly laugh at someone's theories in THEIR thread, you can do that in the fp coordination thread :D. Don't be mean tho)
@@ -47,12 +50,11 @@ Good luck and enjoy felping! Created by Okaczko and assisted by Windy (Toonlinky
 		- "general question for dialogue: is there missable character specific dialogue that you can only get after meeting five pebbles? I would hate to miss dialogue but I also don't wanna limit myself by going to 5p first every single time" 
 		- "Answer: ||Yes, there is dialogue you can only access after meeting Five Pebbles in the Monk campaign.||"
 	- Notice the mention of Five Pebbles and Monk. Lammy (the one who answered here) talks only with the present knowledge. This is where I realized there are genuinely levels to ts
- - Jokes are funny and all but first try to actually help the guy if they need it (I do the opposite so much man)
+- Jokes are funny and all but first try to actually help the guy if they need it (I do the opposite so much man)
 - Talking about the Remix toggles is considered quite a big hint, and also there are spoilers in the settings. Recommend at caution (in the case of the player struggling or if they are not on their first playthrough)
 - "I think it's good to not be overly negative when FPlayers use external resources, it can easily backfire to people feeling shamed for how they play the game. Everybody is built different and has different levels of comfort regarding both spoilers as well as difficulty in a game. In the FP guidelines there's the rule of "Player enjoyment takes priority over all other guidelines", and I think that applies to both the hints we give but also how we should work with players using the Wiki or a map. We inform them what our opinion of best practice is and why, but if they still choose to use more help, then that's okay. A player playing the game and having fun despite spoilers or a map is still better than a player who quits the game because they think they don't find enjoyment out of it." - **Lammy**. Genuinely what a banger
 - Tips intended to get the player to stop thinking in terms of other video games are good. Such as "the game doesn't have a linear progression", "knowledge is the progress", "it's a sandbox survival/adventure game"
  	- Some also say "There are no permanent upgrades" but I find that to be a spoiler, many are fine with this phrase tho.
-
 
 ### Great and vague enough phrases to use (that I stole muehehehe)
 - "What makes you say that?" is an excellent phrase, as it gives you the knowledge of the player and makes them elaborate more on their thoughts
