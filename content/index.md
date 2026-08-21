@@ -13,7 +13,7 @@ The document is separated into five parts:
 - [Useful Phrases](https://github.com/Okaczko/rw-felp/blob/v5/content/index.md#great-and-vague-enough-phrases-to-use-that-i-stole-muehehehe)
 - [Specific Situations and Technicalities](https://github.com/Okaczko/rw-felp/blob/v5/content/index.md#specific-situations)
 - [Changes the More Slugcat Expansion (MSC) adds to Vanilla](https://github.com/Okaczko/rw-felp/blob/v5/content/index.md#msc-changes-for-vanilla-to-watch-out-for)
-
+- [To add](https://github.com/Okaczko/rw-felp/blob/v5/content/index.md#msc-changes-for-vanilla-to-watch-out-for)
 This document will grow over time.
 
 **Spoiler Warning: This document may contain spoilers for all current campaigns (Vanilla, MSC and Watcher).**
