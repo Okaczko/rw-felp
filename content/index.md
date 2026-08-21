@@ -80,6 +80,14 @@ Answering questions:
 	- Spoilering can be done by putting || in front and behind the text or by highlighting the word or sentence and clicking the eye symbol.
 - Short answers such as yes / no questions or others that can be deduced by its text length should have some extra filler, either by writing a full sentence or adding spaces around them: ||Yes, that is correct.||
 
+Start out by **answering the bare minimum**. Don’t imply something beyond the scope of the question. This is the fine line we walk, to tell and imply the least while being clear and helpful.
+
+- Example:
+	> "general question for dialogue: is there missable character specific dialogue that you can only get after meeting five pebbles? I would hate to miss dialogue but I also don't wanna limit myself by going to 5p first every single time"
+
+	>  "Answer: ||Yes, there is dialogue you can only access after meeting Five Pebbles in the Monk campaign.||"
+- Notice the mention of Five Pebbles and Monk. Lammy (the one who answered here) talks only with the present knowledge.
+
 Non hidden achievements and the tutorial area are not considered spoilers.
 - Non hidden achievements are the following:
 	1. Survivor
@@ -94,58 +102,38 @@ Non hidden achievements and the tutorial area are not considered spoilers.
 	10. The Wanderer
 	11. Astray
 
-- If the player is lost, it can be helpful asking which regions they have visited before. This is especially useful if the post does not start from the beginning, or if you are out of the loop on their prior explorations. 
+Talking about the Remix Mod and its toggles is considered a rather big hint. There can also be spoilers in the settings. Recommend at caution, in the case the player is particularly struggling or if they are not on their first playthrough. 
+
+Telling players that MSC campaigns have a non-ascension ending is okay after they finish the respective campaign (for example if they ascend with Spearmaster without delivering the pearl.)
+
+If the player is lost, it can be helpful asking which regions they have visited before. This is especially useful if the post does not start from the beginning, or if you are out of the loop on their prior explorations. 
 - Simple nudges in case of a lost player can be encouraging them to make use of their in-game map, which is also accessible from the sleep screen and in the main menu
  - If they are unsure where to go, you can tell them to check out unexplored areas and paths, as they can lead them to something new or interesting
 
 If the player expresses strong or prolonged frustration, we can offer to give them more direct hints and answers. Remember: **The most important part is that the player is having fun!**
 
+What if a player is using external resources such as the Wiki, a map or guide?
+- In such cases we will warn them about the potential of spoilers and how this can negatively affect the way they play and experience the game. We remind them that the game is best enjoyed blind, and that we do not recommend using the Wiki or an online map. 
+
+> "I think it's good to not be overly negative when FPlayers use external resources, it can easily backfire to people feeling shamed for how they play the game. Everybody is built different and has different levels of comfort regarding both spoilers as well as difficulty in a game. In the FP guidelines there's the rule of "Player enjoyment takes priority over all other guidelines", and I think that applies to both the hints we give but also how we should work with players using the Wiki or a map. We inform them what our opinion of best practice is and why, but if they still choose to use more help, then that's okay. A player playing the game and having fun despite spoilers or a map is still better than a player who quits the game because they think they don't find enjoyment out of it." - **Lammy**
+
+For both new posts as well as when you follow along a players documentation, keep an eye out for potential DLC content. 
+- In the Vanilla channel no DLC content (Downpour and Watcher) is allowed
+- In the Downpour channel no Watcher content is allowed
+- In the Watcher channel Downpour content is only allowed with spoilers
+This includes all instances, such as names, visuals or vaguely hinting at the respective content. If you notice a player is having a DLC enabled in a channel where said DLC is not allowed, remove the message and ask the player to either turn off the DLC in the Remix Menu or move to the respective channel.
+
+Big content mods such as region mods, new campaigns / slugcats or mods that drastically change the gameplay such as the Rotund World mod are not allowed in the First Playthrough channels and should be redirected to the Modded Playthrough channel instead.
+
+In the FP Coordination Channel:
+- Feel free to make use of this channel whenever you feel unsure or have a question about how to felp. You can forward player questions and discuss your answer to make sure it aligns with the guidelines
+-  You can also forward other people’s answers to discuss them. In that case it is best to ping the person in question so they are not left in the dark.
+- Similar goes for messages that had to be removed for giving too much or unsolicited advice. If this occurs, the commenter can be informed quickly in the post and then pinged in the coordination channel to inform them about the guidelines in the pinned messages.
+- The coordination channel can also be used to talk about players thoughts and theories, but be cordial. The FP Coordination channel is a public channel and the player in question might find themselves there in the future as a guide as well. Avoid being mean or making fun of people in a way you wouldn’t feel comfortable telling them directly.
+
 Under construction~
 
 ------
-
-- Be kind
-- When talking about another commentator's felping on the fp-coordination channel, please ping the user that's discussed (we don't want to leave people in the dark). Same goes for when you remove a commentator's reply. You can also copy and save the message somewhere when you delete it so that it can be discussed in fp-coordination without it posing a risk in the FP thread.
-
-- Check if it's only the relevant dlc/base game, if it's an unusual issue you can also ask about which mods does the player use.
-   - Big content mods (regions, slugcats, even rotound world) are not allowed in basegame fp threads and go to the modded ones instead 
-- Don't let their curiosity go to waste by telling them the outcome, let them find it
-- It's always worth the time to ask which regions has the FPlayer visited already and what did they do when the thread doesn't start from the very beginning.
-- Ask questions that provoke thinking. Make THEM the theorist
-- As a wise person once said: It is far easier to give too little information, and then give more, than to give too much information, and then take it away
-   - Someone, probably
-- Your goal is to motivate and support the player. The joy of the game is the amount of unexpected bullshit so let them experience it too :)
-- Do not be objective (aka don't say "Downpour is great!!!"), say *your* opinion and that it's *your* opinion on the matter
-- Don't be afraid to laugh and say something was funny to you (this is for clips and jokes made by OP, don't explicitly laugh at someone's theories in THEIR thread, you can do that in the fp coordination thread :D. Don't be mean tho)
-- Censor your hints and tips in the case that OP reconsiders. Spoilers are done by putting || at the start and the end ||Like this|| or by highlighting the text and clicking the eye. 
-	- Yes or No questions, or any answer that can be deduced by it's text length should have some extra spaces as a filler  ||Like this                ||
-- ALWAYS check if the question is rhetoric or not. Ask them what the player wants from you. A hint? A direct answer?
-- Non hidden achievements and the tutorial area is not considered a spoiler.
-	- Non hidden achievements are the following:
-		1. Survivor
-		2. The Saint
-		3. The Monk
-		4. The Chieftain
-		5. The Outlaw
-		6. The Dragon Slayer
-		7. The Scholar
-		8. The Hunter
-		9. The Friend
-		10. The Wanderer
-		11. Astray
-- If the player is frustrated, you could tell them it lwk makes sense, cuz sometimes Rain Deer or Rot really *are* stupid
-- **Answer the bare minimum**. Don't even imply something. This is the fine line we walk. To tell the least and to imply the least while being clear and helpful.
-	- Example: 
-		- "general question for dialogue: is there missable character specific dialogue that you can only get after meeting five pebbles? I would hate to miss dialogue but I also don't wanna limit myself by going to 5p first every single time" 
-		- "Answer: ||Yes, there is dialogue you can only access after meeting Five Pebbles in the Monk campaign.||"
-	- Notice the mention of Five Pebbles and Monk. Lammy (the one who answered here) talks only with the present knowledge. This is where I realized there are genuinely levels to ts
-- Jokes are funny and all but first try to actually help the guy if they need it (I do the opposite so much man)
-- Talking about the Remix toggles is considered quite a big hint, and also there are spoilers in the settings. Recommend at caution (in the case of the player struggling or if they are not on their first playthrough)
-- "I think it's good to not be overly negative when FPlayers use external resources, it can easily backfire to people feeling shamed for how they play the game. Everybody is built different and has different levels of comfort regarding both spoilers as well as difficulty in a game. In the FP guidelines there's the rule of "Player enjoyment takes priority over all other guidelines", and I think that applies to both the hints we give but also how we should work with players using the Wiki or a map. We inform them what our opinion of best practice is and why, but if they still choose to use more help, then that's okay. A player playing the game and having fun despite spoilers or a map is still better than a player who quits the game because they think they don't find enjoyment out of it." - **Lammy**. Genuinely what a banger
-- Tips intended to get the player to stop thinking in terms of other video games are good. Such as "the game doesn't have a linear progression", "knowledge is the progress", "it's a sandbox survival/adventure game"
- 	- Some also say "There are no permanent upgrades" but I find that to be a spoiler, many are fine with this phrase tho.
-- Names of the creatures, phenomena and regions should not be disclosed. Also it's funny seeing people make names for all the stuff.
-- Telling players that MSC scugs have a non-ascension is ending is OK after they finish their campaign (for example if they ascend with Spearmaster without delivering the pearl)
 
 ### Great and vague enough phrases to use (that I stole muehehehe)
 - "What makes you say that?" is an excellent phrase, as it gives you the knowledge of the player and makes them elaborate more on their thoughts
