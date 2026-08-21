@@ -9,7 +9,7 @@ This is my documentation on various sources, principles and tips I’ve gathered
 The document is separated into five parts:
 
 - [Useful Resources](https://github.com/Okaczko/rw-felp/blob/v5/content/index.md#useful-resources)
-- Basic Principles
+- [Basic Principles](https://github.com/Okaczko/rw-felp/blob/v5/content/index.md#basic-principles)
 - Useful Phrases
 - Specific Situations and Technicalities
 - Changes the More Slugcat Expansion (MSC) adds to Vanilla
