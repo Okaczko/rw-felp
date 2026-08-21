@@ -2,7 +2,7 @@
 
 ### Abstract and spoiler warning
 - This is my documentation on various sources, principles and tips I've gathered while trying to learn how to felp (first playthrough helping) properly. The doc is made into five parts: [useful resources](https://okaczko.github.io/rw-felp/#useful-resources), [basic principles](https://okaczko.github.io/rw-felp/#basic-principles) + [useful phrases](https://okaczko.github.io/rw-felp/#great-and-vague-enough-phrases-to-use-that-i-stole-muehehehe), [specific situations and technicalities](https://okaczko.github.io/rw-felp/#specific-situations), and at last all the [changes MSC brings for Vanilla](https://okaczko.github.io/rw-felp/#msc-changes-for-vanilla-to-watch-out-for) that I've noticed through my threads that are important enough to write. **There will be spoilers**. This document will grow. *If you want to suggest/add something, hit me up on discord! I can give you the collaborator role on Github.*
-Good luck and enjoy felping! Created by Okaczko and assisted by Windy (Toonlinky)
+Good luck and enjoy felping! Created by Okaczko and assisted by Windy (Toonlinky) and Lammy! 
 
 ## Useful resources
 [Rain World Collection Index \| Pearls, Broadcasts, Downpour & The Watcher DLC](https://rw-collection-index.github.io/) - Site for fetching dialogue/transcriptions without getting lost in the maze that is the wiki, speaking of...
