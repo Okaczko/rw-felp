@@ -8,7 +8,7 @@ This is my documentation on various sources, principles and tips I’ve gathered
 
 The document is separated into five parts:
 
-- Useful Resources
+- [Useful Resources](https://github.com/Okaczko/rw-felp/blob/v5/content/index.md#useful-resources)
 - Basic Principles
 - Useful Phrases
 - Specific Situations and Technicalities
