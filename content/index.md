@@ -54,6 +54,51 @@ If the player does not remove the spoilers, is unresponsive or offline, felpers 
 
 ### Felping:
 
+While felping, always remember to be kind. Your goal is to motivate and support the player. The joy of the game is the amount of unexpected bullshit, so let them experience it too :) 
+
+The beauty of the game is exploring and finding out things for yourself. New players can feel lost or confused, especially if they come in with certain expectations or prior knowledge. In such cases, remind them Rain World is an experience unlike many other games. Tips intended to get the player to stop thinking in terms of other video games can be helpful, such as: “The game does not have a linear progression”, “knowledge is the progress” or “it’s a sandbox survival / adventure game.”
+Some also say: “There are no permanent upgrades” but this could be seen as a soft spoiler.
+
+When interacting with players:
+
+- Ask questions that provoke thinking. Make THEM the theorist. Positive feedback is encouraged.
+- Avoid being objective or stating opinions as facts. For example: “Downpour is great!”, sharing your thoughts is welcome but disclose they are your personal opinion: “I think Downpour is great!”
+- Do not be afraid to laugh at the players jokes or clips but avoid poking fun at their theories. Avoid getting swept away in jokes or off-topic conversation when a player is asking for help
+- Always encourage curiosity and experimentation! Don’t let their curiosity go to waste by telling them the outcome, let them find it themselves
+
+Often times part of felping is helping out players who are struggling. To preserve the nature of exploration we tend to be rather conservative with handing out hints; first opting for minor nudges but we can give out more moderate or even major hints if necessary.
+
+Remember: It is far easier to give too little information and then give more, than to give too much information and then take it away. (- Someone, probably)
+
+Answering questions:
+- First confirm the question is genuine or rhetorical. A lot of players like to just throw all their thoughts at the wall without actually seeking an answer from the helpers
+- Once the player confirms they indeed want an answer, start out with minor nudges.
+	- If they express further confusion, more moderate hints can be given.
+	- If they ask for a direct answer, warn them this will contain spoilers but respect their wish
+- **Always** spoiler your hints and direct answers. This is done in case the player reconsiders.
+	- Spoilering can be done by putting || in front and behind the text or by highlighting the word or sentence and clicking the eye symbol.
+- Short answers such as yes / no questions or others that can be deduced by its text length should have some extra filler, either by writing a full sentence or adding spaces around them: ||Yes, that is correct.||
+
+Non hidden achievements and the tutorial area are not considered spoilers.
+- Non hidden achievements are the following:
+	1. Survivor
+	2. The Saint
+	3. The Monk
+	4. The Chieftain
+	5. The Outlaw
+	6. The Dragon Slayer
+	7. The Scholar
+	8. The Hunter
+	9. The Friend
+	10. The Wanderer
+	11. Astray
+
+- If the player is lost, it can be helpful asking which regions they have visited before. This is especially useful if the post does not start from the beginning, or if you are out of the loop on their prior explorations. 
+- Simple nudges in case of a lost player can be encouraging them to make use of their in-game map, which is also accessible from the sleep screen and in the main menu
+ - If they are unsure where to go, you can tell them to check out unexplored areas and paths, as they can lead them to something new or interesting
+
+If the player expresses strong or prolonged frustration, we can offer to give them more direct hints and answers. Remember: **The most important part is that the player is having fun!**
+
 Under construction~
 
 ------
