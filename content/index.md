@@ -26,6 +26,7 @@ This document will grow over time.
 - [Rain World Hints Stuff](https://docs.google.com/document/d/10DXL8zY8MtVefjcFskXF9xjahaHn8RdWzg_wzCMpJBk/): List of hints to use. Not complete.
 - [FP Guide Coordination](https://discord.com/channels/291184728944410624/1494522157009735730): Channel for discussion on the FP forums. When in doubt, ask there. Also useful for guides / unofficial felpers to get the attention of FP helpers. They have the ability to edit post titles, delete messages and use the .repost command to remove spoilers.
 - [Remix Mod Presets](https://rainworld.miraheze.org/wiki/Remix/Rain_World_Remix#Presets): Wiki article of the presets and explanation of all the toggles. I recommend reading this because the Remix Mod can add changes to how the game is experienced.
+- [RW Tech Wiki](https://rwtechwiki.github.io/): Wiki about movement and exploits. Useful for explaining any tech as they also provide gifs there.
 
 ## Basic Principles
 
