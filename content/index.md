@@ -11,7 +11,7 @@ The document is separated into five parts:
 - [Useful Resources](https://github.com/Okaczko/rw-felp/blob/v5/content/index.md#useful-resources)
 - [Basic Principles](https://github.com/Okaczko/rw-felp/blob/v5/content/index.md#basic-principles)
 - [Useful Phrases](https://github.com/Okaczko/rw-felp/blob/v5/content/index.md#great-and-vague-enough-phrases-to-use-that-i-stole-muehehehe)
-- Specific Situations and Technicalities
+- [Specific Situations and Technicalities](https://github.com/Okaczko/rw-felp/blob/v5/content/index.md#specific-situations)
 - Changes the More Slugcat Expansion (MSC) adds to Vanilla
 
 This document will grow over time.
