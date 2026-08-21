@@ -70,6 +70,7 @@ This document will grow over time.
 - Tips intended to get the player to stop thinking in terms of other video games are good. Such as "the game doesn't have a linear progression", "knowledge is the progress", "it's a sandbox survival/adventure game"
  	- Some also say "There are no permanent upgrades" but I find that to be a spoiler, many are fine with this phrase tho.
 - Names of the creatures, phenomena and regions should not be disclosed. Also it's funny seeing people make names for all the stuff.
+- Telling players that MSC scugs have a non-ascension is ending is OK after they finish their campaign (for example if they ascend with Spearmaster without delivering the pearl)
 
 ### Great and vague enough phrases to use (that I stole muehehehe)
 - "What makes you say that?" is an excellent phrase, as it gives you the knowledge of the player and makes them elaborate more on their thoughts
@@ -79,7 +80,7 @@ This document will grow over time.
 - "Many things besides spears can be useful in combat. Generally though, you can kill any creature with enough understanding about how it works and a spear. Experiment and observe!" - **Bottle'o Jam**
 - "You can also experiment with the sandbox arena to get used to the controls and try out techniques :)" - **Lammy**
 - "Everybody enjoys and plays games differently. We do not recommend external resources like the Wiki and maps for first playthroughs, the game is heavily focused on exploration and survival and best enjoyed blind. Using external resources can come at a risk of spoilers, but it is up to each individual player to decide how they wish to enjoy the game. So if OP thinks they prefer using a map, that's okay too." - **Lammy**
-- Telling players that MSC scugs have a non-ascension is ending is OK after they finish their campaign (for example if they ascend with Spearmaster without delivering the pearl)
+- "If you think something is missing you can always return later too" - **Lammy**
   
 ## Specific situations
 ### I ate lttm neurons and now I feel bad
