@@ -1,17 +1,30 @@
 "wait what is this" - gxhaxr
 
-### Abstract and spoiler warning
-- This is my documentation on various sources, principles and tips I've gathered while trying to learn how to felp (first playthrough helping) properly. The doc is made into five parts: [useful resources](https://okaczko.github.io/rw-felp/#useful-resources), [basic principles](https://okaczko.github.io/rw-felp/#basic-principles) + [useful phrases](https://okaczko.github.io/rw-felp/#great-and-vague-enough-phrases-to-use-that-i-stole-muehehehe), [specific situations and technicalities](https://okaczko.github.io/rw-felp/#specific-situations), and at last all the [changes MSC brings for Vanilla](https://okaczko.github.io/rw-felp/#msc-changes-for-vanilla-to-watch-out-for) that I've noticed through my threads that are important enough to write. **There will be spoilers**. This document will grow. *If you want to suggest/add something, hit me up on discord! I can give you the collaborator role on Github.*
-Good luck and enjoy felping! Created by Okaczko and assisted by Windy (Toonlinky) and Lammy! 
+Created by Okaczko and assisted by Windy (Toonlinky) and Lammy.
 
-## Useful resources
-[Rain World Collection Index \| Pearls, Broadcasts, Downpour & The Watcher DLC](https://rw-collection-index.github.io/) - Site for fetching dialogue/transcriptions without getting lost in the maze that is the wiki, speaking of...
-[Official Rain World Wiki](https://rainworld.miraheze.org/wiki/Rain_World_Wiki) - The wiki. I only use it when I need specific numbers (for example how long does it take for a karma flower to respawn)
-[Rain World Interactive Map](https://henpemaz.github.io/Rain-World-Interactive-Map/index.html) - Vanilla and MSC
-[RAIN WORLD HINTS STUFF - Document Google](https://docs.google.com/document/d/10DXL8zY8MtVefjcFskXF9xjahaHn8RdWzg_wzCMpJBk/edit?tab=t.0) - List of hints to use. Not complete
-[Discord - fp_guide_coordination thread](https://discord.com/channels/291184728944410624/1494522157009735730) - Thread used for discussion on the FP threads. When in doubt, ask there. Also if you don't have the First Playthrough Helper role it lets you get the attention of someone that can .repost or edit/delete the message in the case of a spoiler in the text and the OP being offline/uncooperative
-[Remix Mod Presets and explanation of all the toggles](https://rainworld.miraheze.org/wiki/Remix/Rain_World_Remix#Presets) - I recommend reading this as Remix changes a lot of stuff and even only turning it on brings a lot of changes that the player and the felper should be aware of and their consequences
+### Abstract
 
+This is my documentation on various sources, principles and tips I’ve gathered while trying to learn how to felp (first playthrough helping) properly.
+
+The document is separated into five parts:
+
+- Useful Resources
+- Basic Principles
+- Useful Phrases
+- Specific Situations and Technicalities
+- Changes the More Slugcat Expansion (MSC) adds to Vanilla
+
+This document will grow over time.
+
+**Spoiler Warning: This document may contain spoilers for all current campaigns (Vanilla, MSC and Watcher).**
+
+## Useful Resources
+- [Rain World Collection Index](https://rw-collection-index.github.io/): Site for easily fetching dialogue and transcripts without getting lost in the maze that is the wiki
+- [Rain World Wiki](https://rainworld.miraheze.org/wiki/Rain_World_Wiki): Contains every knowledge you might need. It is very extensive, so I mostly use it when I need specific numbers (f.e. How long does it take for a Karma Flower to respawn?). The region maps are also easier to navigate
+-  Rain World Interactive Map [Vanilla](https://henpemaz.github.io/Rain-World-Interactive-Map/index.html) | [Downpour](https://rain-world-map.github.io/) | [Watcher](https://alduris.github.io/watcher-map/): Good for room names and creature spawns
+- [Rain World Hints Stuff](https://docs.google.com/document/d/10DXL8zY8MtVefjcFskXF9xjahaHn8RdWzg_wzCMpJBk/): List of hints to use. Not complete.
+- [FP Guide Coordination](https://discord.com/channels/291184728944410624/1494522157009735730): Channel for discussion on the FP forums. When in doubt, ask there. Also useful for guides / unofficial felpers to get the attention of FP helpers. They have the ability to edit post titles, delete messages and use the .repost command to remove spoilers.
+- [Remix Mod Presets](https://rainworld.miraheze.org/wiki/Remix/Rain_World_Remix#Presets): Wiki article of the presets and explanation of all the toggles. I recommend reading this because the Remix Mod can add changes to how the game is experienced.
 
 ## Basic principles
 - Be kind
