@@ -27,11 +27,37 @@ This document will grow over time.
 - [FP Guide Coordination](https://discord.com/channels/291184728944410624/1494522157009735730): Channel for discussion on the FP forums. When in doubt, ask there. Also useful for guides / unofficial felpers to get the attention of FP helpers. They have the ability to edit post titles, delete messages and use the .repost command to remove spoilers.
 - [Remix Mod Presets](https://rainworld.miraheze.org/wiki/Remix/Rain_World_Remix#Presets): Wiki article of the presets and explanation of all the toggles. I recommend reading this because the Remix Mod can add changes to how the game is experienced.
 
-## Basic principles
+## Basic Principles
+
+New Posts:
+The title, image(s) and starting message is visible from the channel. Spoilers should be avoided to keep the experience spoiler free for all new players.
+
+What counts as a spoiler? **Anything** past the tutorial, so:
+- Regions, either visually depicted or mentioned by name, except for Outskirts
+	- Mentioning Outskirts by name is fine, visual depictions of Outskirts rooms past the tutorial area are spoilers
+- Creature names, descriptions and visuals, except for green and pink lizards, batflies, overseers and playable slugcats
+	- Mentioning slugcats by name or showing them is fine, abilities are not!
+- Item names, descriptions and visuals, except blue fruits, rocks and spears
+- Mechanics such as lizard taming and reputation, except for the rain timer
+
+**The above mentioned exceptions are for player made titles and starting messages. Helpers and guides should not mention these before the player encounters them!**
+
+If any spoiler is detected in the title or starting message (including the images) kindly ask the player to edit or remove them. 
+
+- Spoilering text can be done by placing || in front and after the text: ||Like this.|| This works for both words, sentences and entire paragraphs or messages.
+- Images can be spoilered by pressing the eye icon (“Spoiler Attachment”) before uploading or by checking the box “Mark as spoiler” when editing (currently only on desktop). If the image cannot be spoilered it must be removed. In this case tell the player they are free to repost the image underneath the starting message.
+	- Images that have been properly spoilered in the starting message might appear unspoilered in the channel on mobile. We currently have no guideline in place to circumvent this by f.e. disallowing images in the starting message. Double check by opening the post to see if the image is properly spoilered, if that is the case, do not prompt the player to remove the image.
+- Spoilering text in titles currently does not properly display on mobile, therefore all spoilers must be removed from the title.
+
+If the player does not remove the spoilers, is unresponsive or offline, felpers can use the .repost command. This removes the entire starting message including images, reposts them using webhooks and pins it. Titles can be manually edited to remove spoilers. Guides and helpers without the permissions can contact felpers in the fp-coordination channel for this.
+
+Felping:
+
+------
+
 - Be kind
 - When talking about another commentator's felping on the fp-coordination channel, please ping the user that's discussed (we don't want to leave people in the dark). Same goes for when you remove a commentator's reply. You can also copy and save the message somewhere when you delete it so that it can be discussed in fp-coordination without it posing a risk in the FP thread.
-- Check if everything that should be spoilered (as in hidden) is spoilered. SPOILERED TEXT IN TITLE DOESN'T WORK ON MOBILE (as of 16.07.2026)
-	- Everything in the initial post should be spoilered, it doesn't matter if FP is mentioned on line 50, everything's going to get grey.
+
 - Check if it's only the relevant dlc/base game, if it's an unusual issue you can also ask about which mods does the player use.
    - Big content mods (regions, slugcats, even rotound world) are not allowed in basegame fp threads and go to the modded ones instead 
 - Don't let their curiosity go to waste by telling them the outcome, let them find it
