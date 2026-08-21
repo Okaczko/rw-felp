@@ -29,7 +29,7 @@ This document will grow over time.
 
 ## Basic Principles
 
-New Posts:
+### New Posts:
 
 The title, image(s) and starting message are visible from the channel. Spoilers should be avoided to keep the experience spoiler free for all new players.
 
@@ -52,9 +52,9 @@ If any spoiler is detected in the title or starting message (including the image
 
 If the player does not remove the spoilers, is unresponsive or offline, felpers can use the .repost command. This removes the entire starting message including images, reposts them using webhooks and pins it. Titles can be manually edited to remove spoilers. Guides and helpers without the permissions can contact felpers in the fp-coordination channel for this.
 
-Felping:
+### Felping:
 
-
+Under construction~
 
 ------
 
