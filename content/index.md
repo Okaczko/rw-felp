@@ -201,3 +201,5 @@ Here are some things you can do:
 
 ## To add
 - consequences of the Remix toggles in regards to the first playthrough as requested by user23848 (At least that's how I understand it?)
+- Player has an assumption that harms theur playthrough (for example needing to have max karma to reach the depths)
+- player isn't collaborative (doesn't spoiler stuff etc. I just want to have a mention of Currier)
