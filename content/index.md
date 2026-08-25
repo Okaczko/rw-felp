@@ -12,12 +12,12 @@ This is my documentation on various sources, principles and tips I’ve gathered
 
 The document is separated into six parts:
 
-- [Useful Resources](https://github.com/Okaczko/rw-felp/blob/v5/content/index.md#useful-resources)
-- [Basic Principles](https://github.com/Okaczko/rw-felp/blob/v5/content/index.md#basic-principles)
-- [Useful Phrases](https://github.com/Okaczko/rw-felp/blob/v5/content/index.md#great-and-vague-enough-phrases-to-use-that-i-stole-muehehehe)
-- [Specific Situations and Technicalities](https://github.com/Okaczko/rw-felp/blob/v5/content/index.md#specific-situations)
-- [Changes the More Slugcat Expansion (MSC) adds to Vanilla](https://github.com/Okaczko/rw-felp/blob/v5/content/index.md#msc-changes-for-vanilla-to-watch-out-for)
-- [To add](https://github.com/Okaczko/rw-felp/blob/v5/content/index.md#msc-changes-for-vanilla-to-watch-out-for)
+- [Useful Resources](https://okaczko.github.io/rw-felp/#useful-resources)
+- [Basic Principles](https://okaczko.github.io/rw-felp/#basic-principles)
+- [Useful Phrases](https://okaczko.github.io/rw-felp/#great-and-vague-enough-phrases-to-use-that-i-stole-muehehehe)
+- [Specific Situations and Technicalities](https://okaczko.github.io/rw-felp/#specific-situations)
+- [Changes the More Slugcat Expansion (MSC) adds to Vanilla](https://okaczko.github.io/rw-felp/#msc-changes-for-vanilla-to-watch-out-for)
+- [To add](https://okaczko.github.io/rw-felp/#to-add)
 
 This document will grow over time.
 
