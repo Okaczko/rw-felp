@@ -92,8 +92,8 @@ Start out by **answering the bare minimum**. Don’t imply something beyond the 
 	>  "Answer: ||Yes, there is dialogue you can only access after meeting Five Pebbles in the Monk campaign.||"
 - Notice the mention of Five Pebbles and Monk. Lammy (the one who answered here) talks only with the present knowledge.
 
-Sometimes you can just ask "can I see ___" without elaborating why lol (for exmaple the map, hibernation screen, room screenshot) to get an information without telling the OP directly about it 
-- An usecase of this is to see if OP has used a passage and if they are aware of them.
+Sometimes you can also ask: "Can I see ___?" (F.e. the map, hibernation screen, current room) to get an information without directly telling the player what you are looking for.
+- A use case of this is to see if the player has used any passage and if they are aware of them.
 
 Non hidden achievements and the tutorial area are not considered spoilers.
 - Non hidden achievements are the following:
@@ -151,12 +151,20 @@ Under construction~
 - "You can also experiment with the sandbox arena to get used to the controls and try out techniques :)" - **Lammy**
 - "Everybody enjoys and plays games differently. We do not recommend external resources like the Wiki and maps for first playthroughs, the game is heavily focused on exploration and survival and best enjoyed blind. Using external resources can come at a risk of spoilers, but it is up to each individual player to decide how they wish to enjoy the game. So if OP thinks they prefer using a map, that's okay too." - **Lammy**
 - "If you think something is missing you can always return later too" - **Lammy**
+
+
+  -------
+
   
-## Specific situations
-### I ate lttm neurons and now I feel bad
+## Specific Situations
+
+### I ate LttM's neurons and now I feel bad
 - "This is up to you whether you wanna live with it or not. If you hibernated then the fate is sealed" - Exanimoso (is that name supposed to be Italian or am I on acid)
-### What is Inv and how do I get them
-- First ask what they do know of them, don't tell them anything more than that. There's no way they could find Inv by themselves (you can tell them this) and it's found by a riddle that was posted online.
+- Generally it can be useful to remind them in this situation that the game only saves when you successfully hibernate.
+- If they have not eaten all of the neurons they can be replaced by bringing some from Five Pebbles. One way to make the player less upset is to suggest they can make it up to Moon in the future.
+
+### What is Inv and how do I get them?
+- First ask what the player knows about them, avoid telling them anything more that could be a spoiler. It’s unlikely for players to find Inv without outside input, and meant to be found by solving a riddle from the RW community.
 	- *Original riddle:* 
 		`Chant His name upon 7 or 8 inscribed bricks of a pillar`
 		`His name can be found in the door of the desert`
@@ -169,17 +177,27 @@ Under construction~
 		`A column of seven or eight bricks, each inscribed`
 		`Call out to them, and another will answer`
 
-### I can't see shit in Shaded Citadel
-- As always tell em to experiment with everything they see, there's like 4 sources of light in this game.
-- You can always tell em that the can use the map for navigation
+### I can't see anything in Shaded Citadel!
+- You can tell them to experiment with everything they can see, there are several sources of light available
+- The upper parts of the region are also less dark and easier to navigate
+- In any case, the ingame map can be a useful tool as it displays the terrain and can be recommended to take advantage of!
 
-### Just finished my first playthrough! now what
-- Tell em they can try the other scugs and that they can continue playing survivor (don't hesitate telling them about the continue button!). There are many things yet to explore
+### Just finished my first playthrough! Now what?
+- Completing Monk or Survivor will unlock Hunter, as well as Artificer and Gourmand (MSC enabled) and Watcher (Watcher enabled).
+	- Generally we recommend playing Watcher after completing the MSC campaigns, even if it unlocks rather early
+- You can encourage them to try any of the other campaigns; or continue playing on the one they just finished. After all, there might be still many more things to see and find.
 
 ### Frustrations with Hunter
-- Tell them that if they don't enjoy him that they can try other campaigns. If it's the last one remaining or before Saint, here's what you can say:
-  	- "You might benefit from trying to just get as far as you can, without restarting. Or if it's your route that's not working, try to reroute" - **McCool**
-  	- That the timer isn't as tight as they might think
+- If they struggle with Hunter’s difficulty, they can always go back and continue playing Monk / Survivor, or, with MSC enabled, try out any of the other campaigns
+- If Hunter is the last campaign remaining or they are insisting on playing it:
+	- "You might benefit from trying to just get as far as you can, without restarting. Or if it's your route that's not working, try to reroute" - **McCool**
+- Minor hint: The timer is not as tight as one might think
+- Some player’s might not be aware that the Depths set your karma to 10 if available.
+	- If they are running out of cycles and feel like they cannot finish the campaign due to insufficient karma you can encourage them to try going to the Depths anyways
+- If the player is close to running out of cycles and considers restarting the campaign, you can ask what they know or think will happen if the counter reaches zero, and encourage them to find out.
+
+
+to be continued~  
 
 ### Player asks a non-rhetorical lore question (example: is LTTM gonna die??)
 - As felpers felp, players might start to focus their curiosity on the felpers as a source of lore instead of the game itself. Most oftentimes "this is a question the game can answer" works well
