@@ -4,7 +4,7 @@
 
 "lammy mentioned" - Lammy, very much mentioned
 
-Created by Okaczko and assisted by Windy (Toonlinky) and Lammy.
+*Created by Okaczko and assisted by Windy (Toonlinky) and Lammy.*
 
 ### Abstract
 
