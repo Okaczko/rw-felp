@@ -1,5 +1,7 @@
 "wait what is this" - gxhaxr (hcjsct)
+
 "The bad grammar hurts my eyes \:monkdesperation:" - McCool before the Great Lammy Cleanup.
+
 "lammy mentioned" - Lammy, very much mentioned
 
 Created by Okaczko and assisted by Windy (Toonlinky) and Lammy.
