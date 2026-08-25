@@ -88,6 +88,9 @@ Start out by **answering the bare minimum**. Don’t imply something beyond the 
 	>  "Answer: ||Yes, there is dialogue you can only access after meeting Five Pebbles in the Monk campaign.||"
 - Notice the mention of Five Pebbles and Monk. Lammy (the one who answered here) talks only with the present knowledge.
 
+Sometimes you can just ask "can I see ___" without elaborating why lol (for exmaple the map, hibernation screen, room screenshot) to get an information without telling the OP directly about it 
+- An usecase of this is to see if OP has used a passage and if they are aware of them.
+
 Non hidden achievements and the tutorial area are not considered spoilers.
 - Non hidden achievements are the following:
 	1. Survivor
