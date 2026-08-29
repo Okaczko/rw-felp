@@ -18,6 +18,7 @@ The document is separated into six parts:
 - [Specific Situations and Technicalities](https://okaczko.github.io/rw-felp/#specific-situations)
 - [Changes the More Slugcat Expansion (MSC) adds to Vanilla](https://okaczko.github.io/rw-felp/#msc-changes-for-vanilla-to-watch-out-for)
 - [To add](https://okaczko.github.io/rw-felp/#to-add)
+- [Nicknames for creatures](https://discord.com/channels/291184728944410624/1270823904247546017/1278887406204096605) - Old FpCoord medsage about various nicknames for the Rain World creatures. Made by user23848.
 
 This document will grow over time.
 
