@@ -16,6 +16,7 @@ The document is separated into six parts:
 - [Basic Principles](https://okaczko.github.io/rw-felp/#basic-principles)
 - [Useful Phrases](https://okaczko.github.io/rw-felp/#great-and-vague-enough-phrases-to-use-that-i-stole-muehehehe)
 - [Specific Situations and Technicalities](https://okaczko.github.io/rw-felp/#specific-situations)
+- [Remix](https://okaczko.github.io/rw-felp/#remix)
 - [Changes the More Slugcat Expansion (MSC) adds to Vanilla](https://okaczko.github.io/rw-felp/#msc-changes-for-vanilla-to-watch-out-for)
 - [To add](https://okaczko.github.io/rw-felp/#to-add)
 
@@ -110,7 +111,7 @@ Non hidden achievements and the tutorial area are not considered spoilers.
 	10. The Wanderer
 	11. Astray
 
-Talking about the Remix Mod and its toggles is considered a rather big hint. There can also be spoilers in the settings. Recommend at caution, in the case the player is particularly struggling or if they are not on their first playthrough. 
+Talking about the Remix Mod and its toggles is considered a rather big hint. There can also be spoilers in the settings. Recommend at caution, in the case the player is particularly struggling or if they are not on their first playthrough. [(Further discussion about it here)](https://okaczko.github.io/rw-felp/#remix)
 
 Telling players that MSC campaigns have a non-ascension ending is okay after they finish the respective campaign (for example if they ascend with Spearmaster without delivering the pearl).
 
@@ -217,7 +218,19 @@ Here are some things you can do:
 	2. Help them a bit more (enjoyment > playing blindly, don't overdo it tho).
 	3. *If* considerable, tell them that dying is part of the game and that they can always find a different route.
 	4. Let them crash out for a bit too yk
-	
+
+## Remix
+The Remix mod is always a precarious mention in the FP threads. We (or from what I've seen) generally recommend it after the player has done a clean playthrough without Remix first. Exceptions are made in the case of frustration or if directly asked about Remix or if the answer involves Remix (for example: "Is there a way to passage all of my pearls with me?").  As always, it's the players decision if they want to play with it. I had Remix on my first playthrough too and didn't really mind personally. Remix brings 48 configurable changes and a LOT of unconfigurable changes. Below are how the base unchanged presets change a first playthrough, highlighting mainly the changes that impact the first playthrough, not a repeated one:
+*notes: not having Extra Tutorials enabled also gets rid of some of the base game tutorials*
+### Remix preset
+ The default preset.
+ - **Loading screen tips** - [Cutscenes after the hibernation screen](https://rainworld.miraheze.org/wiki/User:Alphappy/Tips) Most of the stuff is figureout-able and mostly just draws back from the exploration (distracting, sticking spears, pipejuking, how to get X passage etc.). However, it does mention backflips, reputation, throwboosting, powerthrows, eslides, wallpounces, how to drop an item, rolling, jumping out of pipes, slides, turnboosts, polehops and other tech.
+ - **Extra tutorials** - Re-enables and adds new tutorial pop ups, including new images projected by the Overseer. Generally OK
+ - **Key Items On Passage** - *In my opinion the biggest change to first playthroughs*. It includes Spearmaster's pearl and Rivulet's rarefaction cell. Not recommended.
+### Classic Preset
+A preset striving to be closer to Vanilla while still having the useful QoL from Remix.
+- **Extra tutorials** - Re-enables and adds new tutorial pop ups, including new images projected by the Overseer. Generally OK
+
 ## MSC changes for vanilla to watch out for
 - The den on top of LTTM_ai (wherer lttm is located) is made passthrough 
 - Pipeyard, Precipice, Gutter, Outer Expanse and it's connection to Outskirts are MSC
