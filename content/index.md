@@ -24,8 +24,8 @@ This document will grow over time.
 **Spoiler Warning: This document may contain spoilers for all current campaigns (Vanilla, MSC and Watcher).**
 
 ## Useful Resources
-- [Rain World Collection Index](https://rw-collection-index.github.io/): Site for easily fetching dialogue and transcripts without getting lost in the maze that is the wiki
-- [Rain World Wiki](https://rainworld.miraheze.org/wiki/Rain_World_Wiki): Contains every knowledge you might need. It is very extensive, so I mostly use it when I need specific numbers (f.e. How long does it take for a Karma Flower to respawn?). The region maps are also easier to navigate
+- [Rain World Collection Index](https://rw-collection-index.github.io/): Site for easily fetching dialogue and transcripts without getting lost in the maze that is the wiki.
+- [Rain World Wiki](https://rainworld.miraheze.org/wiki/Rain_World_Wiki): Contains every knowledge you might need. It is very extensive, so I mostly use it when I need specific numbers (f.e. How long does it take for a Karma Flower to respawn?). The region maps are also easier to navigate.
 -  Rain World Interactive Map [Vanilla](https://henpemaz.github.io/Rain-World-Interactive-Map/index.html) | [Downpour](https://rain-world-map.github.io/) | [Watcher](https://alduris.github.io/watcher-map/): Good for room names and creature spawns
 - [Rain World Hints Stuff](https://docs.google.com/document/d/10DXL8zY8MtVefjcFskXF9xjahaHn8RdWzg_wzCMpJBk/): List of hints to use. Not complete.
 - [FP Guide Coordination](https://discord.com/channels/291184728944410624/1494522157009735730): Channel for discussion on the FP forums. When in doubt, ask there. Also useful for guides / unofficial felpers to get the attention of FP helpers. They have the ability to edit post titles, delete messages and use the .repost command to remove spoilers.
@@ -40,12 +40,12 @@ This document will grow over time.
 The title, image(s) and starting message are visible from the channel. Spoilers should be avoided to keep the experience spoiler free for all new players.
 
 What counts as a spoiler? **Anything** past the tutorial, so:
-- Regions, either visually depicted or mentioned by name, except for Outskirts
-	- Mentioning Outskirts by name is fine, visual depictions of Outskirts rooms past the tutorial area are spoilers
-- Creature names, descriptions and visuals, except for green and pink lizards, batflies, overseers and playable slugcats
+- Regions, either visually depicted or mentioned by name, except for Outskirts.
+	- Mentioning Outskirts by name is fine, visual depictions of Outskirts rooms past the tutorial area are spoilers.
+- Creature names, descriptions and visuals, except for green and pink lizards, batflies, overseers and playable slugcats.
 	- Mentioning slugcats by name or showing them is fine, abilities are not!
-- Item names, descriptions and visuals, except blue fruits, rocks and spears
-- Mechanics such as lizard taming and reputation, except for the rain timer
+- Item names, descriptions and visuals, except blue fruits, rocks and spears.
+- Mechanics such as lizard taming and reputation, except for the rain timer.
 
 **The above mentioned exceptions are for player made titles and starting messages. Helpers and guides should not mention these before the player encounters them!**
 
@@ -70,17 +70,17 @@ When interacting with players:
 - Ask questions that provoke thinking. Make THEM the theorist. Positive feedback is encouraged.
 - Avoid being objective or stating opinions as facts. For example: “Downpour is great!”, sharing your thoughts is welcome but disclose they are your personal opinion: “I think Downpour is great!”
 - Do not be afraid to laugh at the players jokes or clips but avoid poking fun at their theories. Avoid getting swept away in jokes or off-topic conversation when a player is asking for help
-- Always encourage curiosity and experimentation! Don’t let their curiosity go to waste by telling them the outcome, let them find it themselves
+- Always encourage curiosity and experimentation! Don’t let their curiosity go to waste by telling them the outcome, let them find it themselves.
 
 Often times part of felping is helping out players who are struggling. To preserve the nature of exploration we tend to be rather conservative with handing out hints; first opting for minor nudges but we can give out more moderate or even major hints if necessary.
 
 Remember: It is far easier to give too little information and then give more, than to give too much information and then take it away. (- Someone, probably)
 
 Answering questions:
-- First confirm the question is genuine or rhetorical. A lot of players like to just throw all their thoughts at the wall without actually seeking an answer from the helpers
+- First confirm the question is genuine or rhetorical. A lot of players like to just throw all their thoughts at the wall without actually seeking an answer from the helpers.
 - Once the player confirms they indeed want an answer, start out with minor nudges.
 	- If they express further confusion, more moderate hints can be given.
-	- If they ask for a direct answer, warn them this will contain spoilers but respect their wish
+	- If they ask for a direct answer, warn them this will contain spoilers but respect their wish.
 - **Always** spoiler your hints and direct answers. This is done in case the player reconsiders.
 	- Spoilering can be done by putting || in front and behind the text or by highlighting the word or sentence and clicking the eye symbol.
 - Short answers such as yes / no questions or others that can be deduced by its text length should have some extra filler, either by writing a full sentence or adding spaces around them: ||Yes, that is correct.||
@@ -112,11 +112,11 @@ Non hidden achievements and the tutorial area are not considered spoilers.
 
 Talking about the Remix Mod and its toggles is considered a rather big hint. There can also be spoilers in the settings. Recommend at caution, in the case the player is particularly struggling or if they are not on their first playthrough. 
 
-Telling players that MSC campaigns have a non-ascension ending is okay after they finish the respective campaign (for example if they ascend with Spearmaster without delivering the pearl.)
+Telling players that MSC campaigns have a non-ascension ending is okay after they finish the respective campaign (for example if they ascend with Spearmaster without delivering the pearl).
 
 If the player is lost, it can be helpful asking which regions they have visited before. This is especially useful if the post does not start from the beginning, or if you are out of the loop on their prior explorations. 
-- Simple nudges in case of a lost player can be encouraging them to make use of their in-game map, which is also accessible from the sleep screen and in the main menu
- - If they are unsure where to go, you can tell them to check out unexplored areas and paths, as they can lead them to something new or interesting
+- Simple nudges in case of a lost player can be encouraging them to make use of their in-game map, which is also accessible from the sleep screen and in the main menu.
+ - If they are unsure where to go, you can tell them to check out unexplored areas and paths, as they can lead them to something new or interesting.
 
 If the player expresses strong or prolonged frustration, we can offer to give them more direct hints and answers. Remember: **The most important part is that the player is having fun!**
 
@@ -126,9 +126,9 @@ What if a player is using external resources such as the Wiki, a map or guide?
 > "I think it's good to not be overly negative when FPlayers use external resources, it can easily backfire to people feeling shamed for how they play the game. Everybody is built different and has different levels of comfort regarding both spoilers as well as difficulty in a game. In the FP guidelines there's the rule of "Player enjoyment takes priority over all other guidelines", and I think that applies to both the hints we give but also how we should work with players using the Wiki or a map. We inform them what our opinion of best practice is and why, but if they still choose to use more help, then that's okay. A player playing the game and having fun despite spoilers or a map is still better than a player who quits the game because they think they don't find enjoyment out of it." - **Lammy**
 
 For both new posts as well as when you follow along a players documentation, keep an eye out for potential DLC content. 
-- In the Vanilla channel no DLC content (Downpour and Watcher) is allowed
-- In the Downpour channel no Watcher content is allowed
-- In the Watcher channel Downpour content is only allowed with spoilers
+- In the Vanilla channel no DLC content (Downpour and Watcher) is allowed.
+- In the Downpour channel no Watcher content is allowed.
+- In the Watcher channel Downpour content is only allowed with spoilers.
 This includes all instances, such as names, visuals or vaguely hinting at the respective content. If you notice a player is having a DLC enabled in a channel where said DLC is not allowed, remove the message and ask the player to either turn off the DLC in the Remix Menu or move to the respective channel.
 
 Big content mods such as region mods, new campaigns / slugcats or mods that drastically change the gameplay such as the Rotund World mod are not allowed in the First Playthrough channels and should be redirected to the Modded Playthrough channel instead.
@@ -144,7 +144,7 @@ Under construction~
 ------
 
 ### Great and vague enough phrases to use (that I stole muehehehe)
-- "What makes you say that?" is an excellent phrase, as it gives you the knowledge of the player and makes them elaborate more on their thoughts
+- "What makes you say that?" is an excellent phrase, as it gives you the knowledge of the player and makes them elaborate more on their thoughts.
 - "Experiment with everything because the resources _are_ around"
 - "Don't try to maintain a high level just _in case_ you'll need it later. There's no guarantee you will, and you'll be much better off in the long run if you're able to take risks. If you're not worried about dying, it'll be much easier to learn what is and is not safe, which will make it easier to survive in the future. This in turn will make it easier to raise your cycle back up if you do end up needing it" - An absolute *banger* of a text by **user23848**
 - "You are always allowed to backtrack if you want to. If you get lost, you still have the view map button and your little friend."
@@ -179,22 +179,22 @@ Under construction~
 		`Call out to them, and another will answer`
 
 ### I can't see anything in Shaded Citadel!
-- You can tell them to experiment with everything they can see, there are several sources of light available
-- The upper parts of the region are also less dark and easier to navigate
+- You can tell them to experiment with everything they can see, there are several sources of light available.
+- The upper parts of the region are also less dark and easier to navigate.
 - In any case, the ingame map can be a useful tool as it displays the terrain and can be recommended to take advantage of!
 
 ### Just finished my first playthrough! Now what?
 - Completing Monk or Survivor will unlock Hunter, as well as Artificer and Gourmand (MSC enabled) and Watcher (Watcher enabled).
-	- Generally we recommend playing Watcher after completing the MSC campaigns, even if it unlocks rather early
+	- Generally we recommend playing Watcher after completing the MSC campaigns, even if it unlocks rather early.
 - You can encourage them to try any of the other campaigns; or continue playing on the one they just finished. After all, there might be still many more things to see and find.
 
 ### Frustrations with Hunter
-- If they struggle with Hunter’s difficulty, they can always go back and continue playing Monk / Survivor, or, with MSC enabled, try out any of the other campaigns
+- If they struggle with Hunter’s difficulty, they can always go back and continue playing Monk / Survivor, or, with MSC enabled, try out any of the other campaigns.
 - If Hunter is the last campaign remaining or they are insisting on playing it:
 	- "You might benefit from trying to just get as far as you can, without restarting. Or if it's your route that's not working, try to reroute" - **McCool**
-- Minor hint: The timer is not as tight as one might think
+- Minor hint: The timer is not as tight as one might think.
 - Some player’s might not be aware that the Depths set your karma to 10 if available.
-	- If they are running out of cycles and feel like they cannot finish the campaign due to insufficient karma you can encourage them to try going to the Depths anyways
+	- If they are running out of cycles and feel like they cannot finish the campaign due to insufficient karma you can encourage them to try going to the Depths anyways.
 - If the player is close to running out of cycles and considers restarting the campaign, you can ask what they know or think will happen if the counter reaches zero, and encourage them to find out.
 
 
