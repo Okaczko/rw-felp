@@ -72,6 +72,8 @@ When interacting with players:
 - Avoid being objective or stating opinions as facts. For example: “Downpour is great!”, sharing your thoughts is welcome but disclose they are your personal opinion: “I think Downpour is great!”
 - Do not be afraid to laugh at the players jokes or clips but avoid poking fun at their theories. Avoid getting swept away in jokes or off-topic conversation when a player is asking for help
 - Always encourage curiosity and experimentation! Don’t let their curiosity go to waste by telling them the outcome, let them find it themselves.
+- Don't mention the creatures by the fan-agreed names unless the player is already aware of them. It's always fun seeing people make names for things :]
+  	- This includes the gendering of Iterators and Slugcats.
 
 Often times part of felping is helping out players who are struggling. To preserve the nature of exploration we tend to be rather conservative with handing out hints; first opting for minor nudges but we can give out more moderate or even major hints if necessary.
 
