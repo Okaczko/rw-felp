@@ -18,7 +18,6 @@ The document is separated into six parts:
 - [Specific Situations and Technicalities](https://okaczko.github.io/rw-felp/#specific-situations)
 - [Changes the More Slugcat Expansion (MSC) adds to Vanilla](https://okaczko.github.io/rw-felp/#msc-changes-for-vanilla-to-watch-out-for)
 - [To add](https://okaczko.github.io/rw-felp/#to-add)
-- [Nicknames for creatures](https://discord.com/channels/291184728944410624/1270823904247546017/1278887406204096605) - Old FpCoord medsage about various nicknames for the Rain World creatures. Made by user23848.
 
 This document will grow over time.
 
@@ -32,6 +31,7 @@ This document will grow over time.
 - [FP Guide Coordination](https://discord.com/channels/291184728944410624/1494522157009735730): Channel for discussion on the FP forums. When in doubt, ask there. Also useful for guides / unofficial felpers to get the attention of FP helpers. They have the ability to edit post titles, delete messages and use the .repost command to remove spoilers.
 - [Remix Mod Presets](https://rainworld.miraheze.org/wiki/Remix/Rain_World_Remix#Presets): Wiki article of the presets and explanation of all the toggles. I recommend reading this because the Remix Mod can add changes to how the game is experienced.
 - [RW Tech Wiki](https://rwtechwiki.github.io/): Wiki about movement and exploits. Useful for explaining any tech as they also provide gifs there.
+- [Nicknames for creatures](https://discord.com/channels/291184728944410624/1270823904247546017/1278887406204096605) - Old FpCoord medsage about various nicknames for the Rain World creatures. Made by user23848.
 
 ## Basic Principles
 
