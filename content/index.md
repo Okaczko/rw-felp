@@ -140,6 +140,8 @@ In the FP Coordination Channel:
 - Similar goes for messages that had to be removed for giving too much or unsolicited advice. If this occurs, the commenter can be informed quickly in the post and then pinged in the coordination channel to inform them about the guidelines in the pinned messages.
 - The coordination channel can also be used to talk about players thoughts and theories, but be cordial. The FP Coordination channel is a public channel and the player in question might find themselves there in the future as a guide as well. Avoid being mean or making fun of people in a way you wouldn’t feel comfortable telling them directly.
 
+- If an user doesn't listen to you (for example, not sticking to one thread and making multiple for one playthrough), you are free to dm **,Courier**. Sometimes people need a more formal nod, not to mention that not everyone is familiar with Discord.
+
 Under construction~
 
 ------
@@ -239,7 +241,6 @@ A preset striving to be closer to Vanilla while still having the useful QoL from
 - Any UI hint/text popup that exists in vanilla gets disabled if Remix is enabled and Extra Tutorials is disabled
 
 ## To add
-- consequences of the Remix toggles in regards to the first playthrough as requested by user23848 (At least that's how I understand it?)
-- mentioning mods
-- player isn't collaborative (doesn't spoiler stuff etc. I just want to have a mention of ,Courrier)
-- player asks if doing Weaver locks them out of Prince
+- ~~consequences of the Remix toggles in regards to the first playthrough as requested by user23848 (At least that's how I understand it?)~~
+- ~~player isn't collaborative (doesn't spoiler stuff etc. I just want to have a mention of ,Courrier)~~
+- player asks if doing Weaver locks them out of Prince (Eh kinda can just be solved by the Good ol' "dont worry bout it"
