@@ -245,4 +245,3 @@ A preset striving to be closer to Vanilla while still having the useful QoL from
 ## To add
 - ~~consequences of the Remix toggles in regards to the first playthrough as requested by user23848 (At least that's how I understand it?)~~
 - ~~player isn't collaborative (doesn't spoiler stuff etc. I just want to have a mention of ,Courrier)~~
-- player asks if doing Weaver locks them out of Prince (Eh kinda can just be solved by the Good ol' "dont worry bout it"
