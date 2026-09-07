@@ -136,6 +136,8 @@ This includes all instances, such as names, visuals or vaguely hinting at the re
 
 Big content mods such as region mods, new campaigns / slugcats or mods that drastically change the gameplay such as the Rotund World mod are not allowed in the First Playthrough channels and should be redirected to the Modded Playthrough channel instead.
 
+Try to avoid confirming the player's thoughts with emojis and reactions such as Saintsmirk etc.
+
 In the FP Coordination Channel:
 - Feel free to make use of this channel whenever you feel unsure or have a question about how to felp. You can forward player questions and discuss your answer to make sure it aligns with the guidelines
 -  You can also forward other people’s answers to discuss them. In that case it is best to ping the person in question so they are not left in the dark.
