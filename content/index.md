@@ -18,6 +18,7 @@ The document is separated into six parts:
 - [Specific Situations and Technicalities](https://okaczko.github.io/rw-felp/#specific-situations)
 - [Remix](https://okaczko.github.io/rw-felp/#remix)
 - [Changes the More Slugcat Expansion (MSC) adds to Vanilla](https://okaczko.github.io/rw-felp/#msc-changes-for-vanilla-to-watch-out-for)
+- [Making a Thread More Engaging](https://okaczko.github.io/rw-felp/#making-a-thread-more-engaging)
 - [To add](https://okaczko.github.io/rw-felp/#to-add)
 
 This document will grow over time.
@@ -243,6 +244,25 @@ A preset striving to be closer to Vanilla while still having the useful QoL from
 - Monk has readable pearls
 - Remix automatically toggles on Extra Throwing Trajectories, which gives you the option to shoot spears up while backflipping, and to throw up and down while in 0g
 - Any UI hint/text popup that exists in vanilla gets disabled if Remix is enabled and Extra Tutorials is disabled
+
+## Making a Thread More Engaging
+The thought of writing this came to me after having received yesterday a DM from an OP of an FP thread asking what they're doing wrong. The message, translated by me and with the greetings cut off, went along the lines of:
+
+> "It seems to me that my First Playthough is quite dead. No one (except for you) Doesn't write anything. Am I doing something wrong? Am I asking not enough questions? Am I sending too many screenshots? You could have some experience with this."
+
+I'm still thinking about it 12 hours later.
+
+We sometimes juggle 50+ threads and talk a lot in some of them and have our discussions, but we should have in mind that the FP OPs don't go to Spoiler General and other channels, to them it's their only rainworldy part of the server they can interact with without getting spoiled.
+
+So when skimming, reading, getting pinged to help, try to find some small thing you can comment on, it doesn't have to be a profound comment, I hardly do those frankly. Take McCool's "Chimney my beloved :heartslug:" for example, it's simple, fun and shares a perspective of another player, a thing I appreciated a lot when first playing and something other OPs could possibly appreciate too. There's no wrong way to document a thread and I don't want people to think otherwise.
+
+I'll be trying some new stuff myself, here's some stuff that just came to my mind while writing this:
+
+- instead of only saying congratulations to a completed campaign, try asking a question or mention something ("which part did you like the most?"/""So what do you think of the campaign?"/"27 scav kills on Arti???") 
+- Mainly just asking them what they think of something. What is their favorite region and which creature they hate the most? Sometimes players don't even think about these things and it can be fun for them to think about it.
+- 
+We'll see, I think it's worthwhile for me to try.
+Maybe you already are active a lot, this isn't some key principle or a rule to hold, I just felt like writing this thought here.
 
 ## To add
 - ~~consequences of the Remix toggles in regards to the first playthrough as requested by user23848 (At least that's how I understand it?)~~
