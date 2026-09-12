@@ -10,7 +10,7 @@
 
 This is my documentation on various sources, principles and tips I’ve gathered while trying to learn how to felp (first playthrough helping) properly.
 
-The document is separated into seven parts:
+The document is separated into eight parts:
 
 - [Useful Resources](https://okaczko.github.io/rw-felp/#useful-resources)
 - [Basic Principles](https://okaczko.github.io/rw-felp/#basic-principles)
