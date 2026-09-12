@@ -160,7 +160,7 @@ Under construction~
 - "You can also experiment with the sandbox arena to get used to the controls and try out techniques :)" - **Lammy**
 - "Everybody enjoys and plays games differently. We do not recommend external resources like the Wiki and maps for first playthroughs, the game is heavily focused on exploration and survival and best enjoyed blind. Using external resources can come at a risk of spoilers, but it is up to each individual player to decide how they wish to enjoy the game. So if OP thinks they prefer using a map, that's okay too." - **Lammy**
 - "If you think something is missing you can always return later too" - **Lammy**
-
+- "pretty much it's one of the common side effects of spoilers: lacking enough knowledge to fully comprehend a gameplay discussion can lock in a suboptimal strategy and disincentivise searching for alternatives. you have to try and fail to know the limits yourself, for any gameplay mechanic, and just relying on discussion can make you perform under maximum capabilities" - **Randi Moth**
 
   -------
 
