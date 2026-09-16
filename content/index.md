@@ -75,6 +75,7 @@ When interacting with players:
 - Always encourage curiosity and experimentation! Don’t let their curiosity go to waste by telling them the outcome, let them find it themselves.
 - Don't mention the creatures by the fan-agreed names unless the player is already aware of them. It's always fun seeing people make names for things :]
   	- This includes the gendering of Iterators and Slugcats.
+- Let the player be wrong.
 
 Often times part of felping is helping out players who are struggling. To preserve the nature of exploration we tend to be rather conservative with handing out hints; first opting for minor nudges but we can give out more moderate or even major hints if necessary.
 
