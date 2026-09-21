@@ -72,7 +72,7 @@ Some also say: “There are no permanent upgrades” but this could be seen as a
 When interacting with players:
 
 - Ask questions that provoke thinking. Make THEM the theorist. Positive feedback is encouraged.
-- Avoid being objective or stating opinions as facts. For example: “Downpour is great!”, sharing your thoughts is welcome but disclose they are your personal opinion: “I think Downpour is great!”
+- Avoid stating opinions as facts. For example: “Downpour is great!”, sharing your thoughts is welcome but disclose they are your personal opinion: “I think Downpour is great!”
 - Do not be afraid to laugh at the players jokes or clips but avoid poking fun at their theories. Avoid getting swept away in jokes or off-topic conversation when a player is asking for help
 - Always encourage curiosity and experimentation! Don’t let their curiosity go to waste by telling them the outcome, let them find it themselves.
 - Don't mention the creatures by the fan-agreed names unless the player is already aware of them. It's always fun seeing people make names for things :]
@@ -148,7 +148,7 @@ In the FP Coordination Channel:
 - Similar goes for messages that had to be removed for giving too much or unsolicited advice. If this occurs, the commenter can be informed quickly in the post and then pinged in the coordination channel to inform them about the guidelines in the pinned messages.
 - The coordination channel can also be used to talk about players thoughts and theories, but be cordial. The FP Coordination channel is a public channel and the player in question might find themselves there in the future as a guide as well. Avoid being mean or making fun of people in a way you wouldn’t feel comfortable telling them directly.
 
-- If an user doesn't listen to you (for example, not sticking to one thread and making multiple for one playthrough), you are free to dm **,Courier**. Sometimes people need a more formal nod, not to mention that not everyone is familiar with Discord.
+- If a user doesn't listen to you (for example, not sticking to one thread and making multiple for one playthrough), you are free to dm **,Courier**. Sometimes people need a more formal nod, not to mention that not everyone is familiar with Discord.
 
 Under construction~
 
