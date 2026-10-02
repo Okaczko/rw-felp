@@ -92,6 +92,8 @@ Answering questions:
 	- Spoilering can be done by putting || in front and behind the text or by highlighting the word or sentence and clicking the eye symbol.
 - Short answers such as yes / no questions or others that can be deduced by its text length should have some extra filler, either by writing a full sentence or adding spaces around them: ||Yes, that is correct.||
 
+- Referencing something that could be considered an inside joke rather than directly congratulating could sorta diminish the significance of the players achievement. Especially the phrase "congrats on beating the tutorial" for Watcher prologue (plus saying that also semi spoils roughly the amount of content in the DLC)
+
 Start out by **answering the bare minimum**. Don’t imply something beyond the scope of the question. This is the fine line we walk, to tell and imply the least while being clear and helpful.
 
 - Example:
