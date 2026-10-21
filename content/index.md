@@ -83,6 +83,8 @@ Often times part of felping is helping out players who are struggling. To preser
 
 Remember: It is far easier to give too little information and then give more, than to give too much information and then take it away. (- Someone, probably)
 
+Felper Overload - Too many felpers hinting at something at once. It's fine (and great!) when many people are in the conversation, but if you have 4 felpers each hinting vaguely at the same thing it gets confusing real fast. If you already see someone typing after a question, wait a bit to see if they answered. Of course you are free to add to their hint/answer if you deem that right. But if you already see more than 2 people helping, it's best to spectate and make sure all goes well. 
+
 Answering questions:
 - First confirm the question is genuine or rhetorical. A lot of players like to just throw all their thoughts at the wall without actually seeking an answer from the helpers.
 - Once the player confirms they indeed want an answer, start out with minor nudges.
