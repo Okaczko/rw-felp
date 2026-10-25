@@ -275,5 +275,4 @@ We'll see, I think it's worthwhile for me to try.
 Maybe you already are active a lot, this isn't some key principle or a rule to hold, I just felt like writing this thought here.
 
 ## To add
-- ~~consequences of the Remix toggles in regards to the first playthrough as requested by user23848 (At least that's how I understand it?)~~
-- ~~player isn't collaborative (doesn't spoiler stuff etc. I just want to have a mention of ,Courrier)~~
+- "I haven't read through all if it yet, but something I feel like might be missing is something along the lines of "There is no right way to play this game. If a player wants direct answers, don't make it difficult to get them.""
