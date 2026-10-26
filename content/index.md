@@ -6,7 +6,7 @@
 
 "its good but itd be better if you added *“kill 7 billion scavengers"*” - snowytaiga.mp3
 
-*Created by Okaczko and assisted by Windy (Toonlinky) and Lammy.*
+*Created by Okaczko and assisted by Lammy.*
 
 ### Abstract
 
