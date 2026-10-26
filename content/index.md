@@ -276,3 +276,4 @@ Maybe you already are active a lot, this isn't some key principle or a rule to h
 
 ## To add
 - "I haven't read through all if it yet, but something I feel like might be missing is something along the lines of "There is no right way to play this game. If a player wants direct answers, don't make it difficult to get them.""
+- workshop having soilers
