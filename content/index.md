@@ -93,6 +93,7 @@ Answering questions:
 - **Always** spoiler your hints and direct answers. This is done in case the player reconsiders.
 	- Spoilering can be done by putting || in front and behind the text or by highlighting the word or sentence and clicking the eye symbol.
 - Short answers such as yes / no questions or others that can be deduced by its text length should have some extra filler, either by writing a full sentence or adding spaces around them: ||Yes, that is correct.||
+- No fplayer is like the other and with that comes preferences to tips. Not everyone is used to the "bare minimum" hint principle, some just want a direct answer and then proceed to google it after the felpers gave a vague answer. This can be done by asking what type of a hint they want (direct, small nudge, a hint). If you're still on the side of caution, include for example a "if this is too vague then tell me and I can say it more directly" so that the player has something to possibly latch onto.
 
 - Referencing something that could be considered an inside joke rather than directly congratulating could sorta diminish the significance of the players achievement. Especially the phrase "congrats on beating the tutorial" for Watcher prologue (plus saying that also semi spoils roughly the amount of content in the DLC)
 
@@ -143,6 +144,8 @@ For both new posts as well as when you follow along a players documentation, kee
 This includes all instances, such as names, visuals or vaguely hinting at the respective content. If you notice a player is having a DLC enabled in a channel where said DLC is not allowed, remove the message and ask the player to either turn off the DLC in the Remix Menu or move to the respective channel.
 
 Big content mods such as region mods, new campaigns / slugcats or mods that drastically change the gameplay such as the Rotund World mod are not allowed in the First Playthrough channels and should be redirected to the Modded Playthrough channel instead.
+
+When talking about or recommending mods, note and warn that the Steam Workshop can have spoilers. Linking the mod can help this, so that the fplayer doesnt have to move through Steam Workshop
 
 Try to avoid confirming the player's thoughts with emojis and reactions such as Saintsmirk etc.
 
@@ -213,28 +216,26 @@ Under construction~
 - Minor hint: The timer is not as tight as one might think.
 - Some player’s might not be aware that the Depths set your karma to 10 if available.
 	- If they are running out of cycles and feel like they cannot finish the campaign due to insufficient karma you can encourage them to try going to the Depths anyways.
-- If the player is close to running out of cycles and considers restarting the campaign, you can ask what they know or think will happen if the counter reaches zero, and encourage them to find out.
-
-
-to be continued~  
+- If the player is close to running out of cycles and considers restarting the campaign, you can ask what they know or think will happen if the counter reaches zero, and encourage them to find out.  
 
 ### Player asks a non-rhetorical lore question (example: is LTTM gonna die??)
-- As felpers felp, players might start to focus their curiosity on the felpers as a source of lore instead of the game itself. Most oftentimes "this is a question the game can answer" works well
+- As felpers felp, players might start to focus their curiosity on the felpers as a source of lore instead of the game itself. Most oftentimes "this is a question the game can answer" works well. Of course if the fplayer wants a direct answer then we should give it with a warning
 
 ### Player gets scales the Wall for the first time. Doesn't know where to go
-- This situation fucking sucks. Most prefer to ask if they want to have such hint or answer on how to get up, but this cuts off Underhang and the whole FP region, which I find important for the story. I just don't think it's intended to go this way but I get that the player is frustrated at scaling the Wall only for an echo.
-- **This is completely different if this is a second playthrough, hinting them on how to get up is completely within reason**
-- The problem arises when it's a first playthrough without MSC (MSC adds 2 grapple worms to the western side of Underhang, making it possible to get quickly to FP), because then they would have to go to Shaded, Leg, Underhang and FP. That can be an insane backtrack. I'm on the "you should explore the parts you haven't been to yet" but that can be frustrating to the player. Thing is, this happens mainly on playthroughs where the player kills LTTM, because the overseer prefers the Shaded>Leg>Underhang route and stays there for most of the time, while void spawn are mainly present in Shaded and Shoreline (they do point you to Memory Crypts). Figuring out without the help of overseers on how to get to Five Pebbles from the Underhang could be a big hassle. Observe how the player acts, most often I just tell them that there are other ways to get there and to explore the paths they haven't taken yet (That is _my_ approach however, do as you find ideal)
+- This situation is always iffy. The fplayer just worked through the Wall which is no easy feat and they "only" get an Echo and see the [pipe at the top right](https://rain-world-downpour-map.github.io/map.html?slugcat=white&region=UW&room=UW_A12). Ask what they've tried and tell them that there's many ways to get anywhere, whether its the methods or paths. This happens most often after the fplayer kills Moon and gets lost because the overseer prefers the Shaded>Leg>Underhang route and stays there for most of the time, while void spawn are mainly present in Shaded and Shoreline (they do point you to Memory Crypts tho). Best thing is that the west of Underhang doesn't have Grapple Worms on Monk/Surv without MSC, so they'd have to go all the way back through Shaded, Leg, Underhang and FP. That can be an insane backtrack. Many find it just to tell them of the tech/ways to get up there, I myself am on the "you should explore the parts you haven't been to yet", however fplayer takes the priority. It's always a pity because in my opinion lower Exterior and Five Pebbles region has incredible storytelling.
+- This is irrelevant on repeated playthroughs, this is only for the first encounter with this room
+- Small list of ways on how to get up in in [UW_A12](https://rain-world-downpour-map.github.io/map.html?slugcat=white&region=UW&room=UW_A12): Grapple Worms in Chimney, backflip spear, Squidcada
 
 ### Player forgets Spearmaster's pearl. Doesn't know what to do
 - Unless prompted, don't indicate anything. If the FPlayer asks what to do then you can say something like "Do you remember something important in this campaign?"/"did you notice anything about your encounter with five pebbles?". Just don't point them directly. Some felpers try to point to the Broadcast ending and some are fine with the FPlayer going to only ascend. Your call. There have been instances of just devtooling it in but uhhhhhhhhh...
+- Remix has Key Item Tracking, its on by default and makes it so that the pearl doesn't get completely lost, key items are visible on the map while Passaging iirc, but most often fplayer don't notice the pearl and leave it close to Pebbles (The pearl goes with you through the pipe, it wont stay in Pebbles's room)
 
 ### Player is very much frustrated with the game
 Here are some things you can do:
 	1. Recommend them taking a break.
 	2. Help them a bit more (enjoyment > playing blindly, don't overdo it tho).
 	3. *If* considerable, tell them that dying is part of the game and that they can always find a different route.
-	4. Let them crash out for a bit too yk
+	4. Let them crash out for a bit too yk, we've all been angry at rw at least once
 
 ## Remix
 The Remix mod is always a precarious mention in the FP threads. We (or from what I've seen) generally recommend it after the player has done a clean playthrough without Remix first. Exceptions are made in the case of frustration or if directly asked about Remix or if the answer involves Remix (for example: "Is there a way to passage all of my pearls with me?").  As always, it's the players decision if they want to play with it. I had Remix on my first playthrough too and didn't really mind personally. Remix brings 48 configurable changes and a LOT of unconfigurable changes. Below are how the base unchanged presets change a first playthrough, highlighting mainly the changes that impact the first playthrough, not a repeated one:
@@ -262,7 +263,7 @@ The thought of writing this came to me after having received yesterday a DM from
 
 I'm still thinking about it 12 hours later.
 
-We sometimes juggle 50+ threads and talk a lot in some of them and have our discussions, but we should have in mind that the FP OPs don't go to Spoiler General and other channels, to them it's their only rainworldy part of the server they can interact with without getting spoiled.
+We sometimes juggle 50+ threads and talk a lot in some of them and have our discussions, but we should have in mind that the FP OPs don't go to Spoiler General and other channels, to them it's their only rainworldy part of the server they can interact with without getting spoiled (shoutout Misc and Offtopic channels tho).
 
 So when skimming, reading, getting pinged to help, try to find some small thing you can comment on, it doesn't have to be a profound comment, I hardly do those frankly. Take McCool's "Chimney my beloved :heartslug:" for example, it's simple, fun and shares a perspective of another player, a thing I appreciated a lot when first playing and something other OPs could possibly appreciate too. There's no wrong way to document a thread and I don't want people to think otherwise.
 
@@ -270,10 +271,9 @@ I'll be trying some new stuff myself, here's some stuff that just came to my min
 
 - instead of only saying congratulations to a completed campaign, try asking a question or mention something ("which part did you like the most?"/""So what do you think of the campaign?"/"27 scav kills on Arti???") 
 - Mainly just asking them what they think of something. What is their favorite region and which creature they hate the most? Sometimes players don't even think about these things and it can be fun for them to think about it.
-- 
+  
 We'll see, I think it's worthwhile for me to try.
-Maybe you already are active a lot, this isn't some key principle or a rule to hold, I just felt like writing this thought here.
+Maybe you are already active a lot, this isn't some key principle or a rule to hold, I just felt like writing this thought here.
 
 ## To add
-- "I haven't read through all if it yet, but something I feel like might be missing is something along the lines of "There is no right way to play this game. If a player wants direct answers, don't make it difficult to get them.""
-- workshop having soilers
+- 
