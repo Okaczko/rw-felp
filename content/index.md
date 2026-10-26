@@ -7,6 +7,7 @@
 "its good but itd be better if you added *“kill 7 billion scavengers"*” - snowytaiga.mp3
 
 *Created by Okaczko and assisted by Lammy.*
+_(however every felper has been a great source! There's a bit from everyone)_
 
 ### Abstract
 
