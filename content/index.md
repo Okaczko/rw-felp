@@ -152,6 +152,8 @@ Try to avoid confirming the player's thoughts with emojis and reactions such as 
 
 On emojis: They don't count as a spoiler as it is a form of self-expression, I mean obviously you don't put a Prince emoji from another server in a new watcher thread, but RWcord meojis arw considered OK. I've found myself that pointing the emoji out is more spoilery than the emoji itself. 
 
+Not every frustration has to be met with tips and how-to, sometimes just encouraging and supporting the fplayer is great by itself.
+
 In the FP Coordination Channel:
 - Feel free to make use of this channel whenever you feel unsure or have a question about how to felp. You can forward player questions and discuss your answer to make sure it aligns with the guidelines
 -  You can also forward other people’s answers to discuss them. In that case it is best to ping the person in question so they are not left in the dark.
