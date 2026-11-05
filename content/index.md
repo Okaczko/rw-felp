@@ -123,6 +123,8 @@ Non hidden achievements and the tutorial area are not considered spoilers.
 	10. The Wanderer
 	11. Astray
 
+- Screenshots of achievements are historically fine. They don't say much anyway. But as always it depends on the situation.
+
 Talking about the Remix Mod and its toggles is considered a rather big hint. There can also be spoilers in the settings. Recommend at caution, in the case the player is particularly struggling or if they are not on their first playthrough. [(Further discussion about it here)](https://okaczko.github.io/rw-felp/#remix)
 
 Telling players that MSC campaigns have a non-ascension ending is okay after they finish the respective campaign (for example if they ascend with Spearmaster without delivering the pearl).
