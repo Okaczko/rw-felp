@@ -156,6 +156,12 @@ On emojis: They don't count as a spoiler as it is a form of self-expression, I m
 
 Not every frustration has to be met with tips and how-to, sometimes just encouraging and supporting the fplayer is great by itself.
 
+#### creature and region names
+- fplayers don't have access to names of creatures. Making their own names is encouraged and it's fun. Take note that expressing confusion can signify to the fplayer that their name isn't "correct". Most often you *can* deduce the creature by the made up name. Problem becomes when you gotta use it and you don't know the vocabulary. Either ask if they're fine with community-agreed creature names or try to use simplifications (noodlefly --> spaghetti sword bug, overseer --> yellow guide/friend).
+- fplayers also make region acronyms. As such get used to FA - Farm Arrays, ST - Subterranean etc. 
+	- especially diabolical are subregion acronyms, watch out for those
+- on note for subregions, some fplayers think of them as the name for the region when having just entered them (example: entering the Leg/Underhang/Wall), so calling it Exterior can just bring confusion and potentially spoil the regions significance (Exterior appears on the Regions tab and in campaign select tho)
+
 In the FP Coordination Channel:
 - Feel free to make use of this channel whenever you feel unsure or have a question about how to felp. You can forward player questions and discuss your answer to make sure it aligns with the guidelines
 -  You can also forward other people’s answers to discuss them. In that case it is best to ping the person in question so they are not left in the dark.
@@ -163,10 +169,6 @@ In the FP Coordination Channel:
 - The coordination channel can also be used to talk about players thoughts and theories, but be cordial. The FP Coordination channel is a public channel and the player in question might find themselves there in the future as a guide as well. Avoid being mean or making fun of people in a way you wouldn’t feel comfortable telling them directly.
 
 - If a user doesn't listen to you (for example, not sticking to one thread and making multiple for one playthrough), you are free to dm **,Courier**. Sometimes people need a more formal nod, not to mention that not everyone is familiar with Discord.
-
-Under construction~
-
-------
 
 ### Great and vague enough phrases to use (that I stole muehehehe)
 - "What makes you say that?" is an excellent phrase, as it gives you the knowledge of the player and makes them elaborate more on their thoughts.
