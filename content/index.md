@@ -161,6 +161,7 @@ Not every frustration has to be met with tips and how-to, sometimes just encoura
 - fplayers also make region acronyms. As such get used to FA - Farm Arrays, ST - Subterranean etc. 
 	- especially diabolical are subregion acronyms, watch out for those
 - on note for subregions, some fplayers think of them as the name for the region when having just entered them (example: entering the Leg/Underhang/Wall), so calling it Exterior can just bring confusion and potentially spoil the regions significance (Exterior appears on the Regions tab and in campaign select tho)
+- [here's a link to a now not maintained list of creature nicknames](https://discord.com/channels/291184728944410624/1270823904247546017/1278887406204096605)
 
 In the FP Coordination Channel:
 - Feel free to make use of this channel whenever you feel unsure or have a question about how to felp. You can forward player questions and discuss your answer to make sure it aligns with the guidelines
