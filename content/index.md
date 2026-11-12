@@ -154,7 +154,7 @@ When talking about or recommending mods, note and warn that the Steam Workshop c
 
 Try to avoid confirming the player's thoughts with emojis and reactions such as Saintsmirk etc.
 
-On emojis: They don't count as a spoiler as it is a form of self-expression, I mean obviously you don't put a Prince emoji from another server in a new watcher thread, but RWcord meojis arw considered OK. I've found myself that pointing the emoji out is more spoilery than the emoji itself. 
+On emojis: They don't count as a spoiler as it is a form of self-expression, I mean obviously you don't put a Five Pebbles emoji from another server in a new vanilla thread, but RWcord meojis arw considered OK. I've found myself that pointing the emoji out is more spoilery than the emoji itself. 
 
 Not every frustration has to be met with tips and how-to, sometimes just encouraging and supporting the fplayer is great by itself.
 
