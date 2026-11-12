@@ -186,10 +186,8 @@ In the FP Coordination Channel:
 - "If you think something is missing you can always return later too" - **Lammy**
 - "pretty much it's one of the common side effects of spoilers: lacking enough knowledge to fully comprehend a gameplay discussion can lock in a suboptimal strategy and disincentivise searching for alternatives. you have to try and fail to know the limits yourself, for any gameplay mechanic, and just relying on discussion can make you perform under maximum capabilities" - **Randi Moth**
 - "This isn't a puzzle game, it's an environmental sandbox sim. There IS a story and an end but the main core of the gameplay is you're in a world and you can explore and interact with it as you wish. The only mandated barebones information to beat the game was taught in the very start - how to move and eat and shelter - and everything else is for you to discover and tinker, optionally. So don't fuss about overarching goals. Right now the goal is to immerse yourself into this little creature. All you have to think about right now is live another day and find out more about the world. And proper info will, eventually, find its way to you." - **Sarcruromolfeus**
+- "To make it more confusing 3 of my messages played 2 truths and a lie, figure out which! :monksilly:" - **Cyluna**
 
-  -------
-
-  
 ## Specific Situations
 
 ### I ate LttM's neurons and now I feel bad
