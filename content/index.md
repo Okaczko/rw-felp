@@ -13,7 +13,7 @@ _(however every felper has been a great source! There's a bit from everyone)_
 
 This is my documentation on various sources, principles and tips I’ve gathered while trying to learn how to felp (first playthrough helping) properly.
 
-The document is separated into eight parts:
+The document is separated into ten parts:
 
 - [Useful Resources](https://okaczko.github.io/rw-felp/#useful-resources)
 - [Basic Principles](https://okaczko.github.io/rw-felp/#basic-principles)
@@ -22,6 +22,8 @@ The document is separated into eight parts:
 - [Remix](https://okaczko.github.io/rw-felp/#remix)
 - [Changes the More Slugcat Expansion (MSC) adds to Vanilla](https://okaczko.github.io/rw-felp/#msc-changes-for-vanilla-to-watch-out-for)
 - [Making a Thread More Engaging](https://okaczko.github.io/rw-felp/#making-a-thread-more-engaging)
+- [Burnout](https://okaczko.github.io/rw-felp/#burnout)
+- [Afterword](https://okaczko.github.io/rw-felp/#afterword)
 - [To add](https://okaczko.github.io/rw-felp/#to-add)
 
 This document will grow over time.
@@ -284,6 +286,24 @@ I'll be trying some new stuff myself, here's some stuff that just came to my min
   
 We'll see, I think it's worthwhile for me to try.
 Maybe you are already active a lot, this isn't some key principle or a rule to hold, I just felt like writing this thought here.
+
+## Burnout
+Burnout from felping is a real thing. In fact, I'm writing this while being burned out (anything to expand the doc /silly)
+Remember, there's no quota on how much you should be active and you don't have to backread meticulously all the threads. If you feel like you need a break, then take it. It's much better to take a break than straight up burning out.
+Lowering the load can help. Maybe don't go into the very chatty threads, limit the threads you're in and you could also not backread. (I have no idea if these help, I'm the one that didn't do these things lol).
+The FOMO is sadly real and does sting even after a week. Maybe you could ask for small summaries. Also consider unfollowing the threads, because having to scroll be 50+ unread threads does NOT help.
+And while this can sound harsh from me, the threads can manage themselves even in your absemce felping-wise. That's not to say your input isn't valuable, in fact I believe every felper adds something special to the thread. 
+Felping should never take priority over your mental health. Take care twin
+
+## Afterword
+Whoa this is quite the wall! If you've read all of this you are more than suited for even the role imo, tho you should go for that one after you've completed all camapigns and are comfortable with spoilers (it's not like the role does *that* much anyway, but it *is* really useful). That said you don't have to remember or adhere to all that I've written here. Everyone has their principles and practices.
+Anybody who helps is a felper. Don't be harsh on yourself for your mistakes, they happened and still happen to all of us. And hey, in the end each mistake and feedback will only make you better :]. 
+
+(Feel free to tell me what to add or change. There are definitely things I have missed.)
+
+Happy felping!
+
+----- 
 
 ## To add
 - 
