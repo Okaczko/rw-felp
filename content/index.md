@@ -156,6 +156,8 @@ On emojis: They don't count as a spoiler as it is a form of self-expression, I m
 
 Not every frustration has to be met with tips and how-to, sometimes just encouraging and supporting the fplayer is great by itself.
 
+Tip for backreading: Don't forget you can use `Mark as unread` and `Create reminder` functions, which can help you with responding to messages and keeping track. You also don't have ti read it all, most of the time I just skim.
+
 #### creature and region names
 - fplayers don't have access to names of creatures. Making their own names is encouraged and it's fun. Take note that expressing confusion can signify to the fplayer that their name isn't "correct". Most often you *can* deduce the creature by the made up name. Problem becomes when you gotta use it and you don't know the vocabulary. Either ask if they're fine with community-agreed creature names or try to use simplifications (noodlefly --> spaghetti sword bug, overseer --> yellow guide/friend).
 - fplayers also make region acronyms. As such get used to FA - Farm Arrays, ST - Subterranean etc. 
