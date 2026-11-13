@@ -13,7 +13,7 @@ _(however every felper has been a great source! There's a bit from everyone)_
 
 ### Abstract
 
-This is my documentation on various sources, principles and tips I’ve gathered while trying to learn how to felp (first playthrough helping) properly.
+This is my documentation on various sources, principles and tips I’ve gathered while trying to learn how to felp (first playthrough helping) properly. The main goal of this document is to give you ideas for you to think upon, not to be some Felping Gospel lol.
 
 The document is separated into nine parts:
 
@@ -29,7 +29,7 @@ The document is separated into nine parts:
 
 This document will grow over time.
 
-**Spoiler Warning: This document may contain spoilers for all current campaigns (Vanilla, MSC and Watcher).**
+**Spoiler Warning: This document may contain spoilers for all current campaigns (Vanilla, MSC and Watcher).** (tho there's no watcher spoilers currently, I hope)
 
 ## Useful Resources
 - [Rain World Collection Index](https://rw-collection-index.github.io/): Site for easily fetching dialogue and transcripts without getting lost in the maze that is the wiki.
