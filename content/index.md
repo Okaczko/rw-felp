@@ -15,7 +15,7 @@ _(however every felper has been a great source! There's a bit from everyone)_
 
 This is my documentation on various sources, principles and tips I’ve gathered while trying to learn how to felp (first playthrough helping) properly.
 
-The document is separated into ten parts:
+The document is separated into nine parts:
 
 - [Useful Resources](https://okaczko.github.io/rw-felp/#useful-resources)
 - [Basic Principles](https://okaczko.github.io/rw-felp/#basic-principles)
@@ -26,7 +26,6 @@ The document is separated into ten parts:
 - [Making a Thread More Engaging](https://okaczko.github.io/rw-felp/#making-a-thread-more-engaging)
 - [Burnout](https://okaczko.github.io/rw-felp/#burnout)
 - [Afterword](https://okaczko.github.io/rw-felp/#afterword)
-- [To add](https://okaczko.github.io/rw-felp/#to-add)
 
 This document will grow over time.
 
@@ -307,7 +306,3 @@ Anybody who helps is a felper. Don't be harsh on yourself for your mistakes, the
 
 Happy felping!
 
------ 
-
-## To add
-- 
