@@ -156,6 +156,10 @@ When talking about or recommending mods, note and warn that the Steam Workshop c
 
 Try to avoid confirming the player's thoughts with emojis and reactions such as Saintsmirk etc.
 
+Also remember that you can just not say anything when any message/reaction could imply something. That said, even being silent can imply something, in that case use the good ol' "try and find out" for example
+
+Saying something is a mod is excellent way to unspoil someone. Better done if only one felper is the one gaslighting, if it's done by multiple people it can bring more convincing results but most the time the more people the talk the more it's obvious we're trying to convince them.
+
 On emojis: They don't count as a spoiler as it is a form of self-expression, I mean obviously you don't put a Five Pebbles emoji from another server in a new vanilla thread, but RWcord meojis arw considered OK. I've found myself that pointing the emoji out is more spoilery than the emoji itself. 
 
 Not every frustration has to be met with tips and how-to, sometimes just encouraging and supporting the fplayer is great by itself.
