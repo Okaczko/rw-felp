@@ -159,6 +159,8 @@ Also remember that you can just not say anything when any message/reaction could
 
 Saying something is a mod is excellent way to unspoil someone. Better done if only one felper is the one gaslighting, if it's done by multiple people it can bring more convincing results but most the time the more people the talk the more it's obvious we're trying to convince them.
 
+However, the fplayer wants to know why things are as they are (it's the nature of our brains, we want to have a reason). As such it's better to not lie and leave the player clueless, they will arrive to their conclusion themselves, wheter correct or wrong, what matters is that it's *their* reasoning. The less you lie the better, because it's much better for a fplayer to go "dang my theory/expectation was wrong" instead of "y'all lied to me".
+
 On emojis: They don't count as a spoiler as it is a form of self-expression, I mean obviously you don't put a Five Pebbles emoji from another server in a new vanilla thread, but RWcord meojis arw considered OK. I've found myself that pointing the emoji out is more spoilery than the emoji itself. 
 
 Not every frustration has to be met with tips and how-to, sometimes just encouraging and supporting the fplayer is great by itself.
