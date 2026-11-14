@@ -165,6 +165,8 @@ On emojis: They don't count as a spoiler as it is a form of self-expression, I m
 
 Not every frustration has to be met with tips and how-to, sometimes just encouraging and supporting the fplayer is great by itself.
 
+Pink lizards can take a magenta/red-ish colors. When a fplayer that is playing Surv or Monk mention a red, they might be talking about a pink. As such don't be like "You've met a red???". (like I do sometimes uhoh)
+
 Tip for backreading: Don't forget you can use `Mark as unread` and `Create reminder` functions, which can help you with responding to messages and keeping track. You also don't have ti read it all, most of the time I just skim.
 
 #### creature and region names
